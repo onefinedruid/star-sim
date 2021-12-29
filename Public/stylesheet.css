@@ -1,9 +1,49 @@
+@font-face {
+    font-family: 'Eurostile';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Eurostile'), url('../src/fonts/eurostile/eurostile.woff') format('woff');
+    }
+    
+@font-face {
+    font-family: 'EuroStyle Normal';
+    font-style: normal;
+    font-weight: normal;
+    src: local('EuroStyle Normal'), url('../src/fonts/eurostile/EuroStyle Normal.woff') format('woff');
+    }
+
 body {
 	background-color: black;
 	color: white;
 	font-family: 'Source Code Pro', monospace;
 }
 
-#demo {
-	
+h3 {
+	margin: 0;
+	font-family: 'Eurostile';
+	font-size: 27pt;
+	font-weight: bold;
+	padding-left: 2rem;
+}
+
+p {
+	padding-left: 2rem;
+}
+
+#canvas {
+	margin: 2rem;
+	width: 95vw;
+	height: 100vh;
+	border: 1px solid white;
+}
+
+#card {
+	width: 20rem;
+	height: 10rem;
+	border: 2px solid white;
+	border-radius: 20px;
+}
+
+#card p {
+	margin: auto;
 }

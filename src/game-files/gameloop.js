@@ -1,4 +1,6 @@
-document.getElementById("demo").innerHTML = "gameloop.js";
+gsap.registerPlugin(Draggable);
+
+Draggable.create("#card");
 
 // choose starting group
 // shuffle deck
