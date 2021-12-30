@@ -33,7 +33,7 @@ p {
 #canvas {
 	margin: 2rem;
 	width: 95vw;
-	height: 100vh;
+	height: 150vh;
 	border: 1px solid white;
 }
 
@@ -47,3 +47,15 @@ p {
 #card p {
 	margin: auto;
 }
+
+textarea:focus, input:focus{
+    outline: none;
+}
+
+#terminal {
+	background: none;
+	border: none;
+	color: darkgrey;
+	font-family: 'Source Code Pro', monospace;
+}
+
