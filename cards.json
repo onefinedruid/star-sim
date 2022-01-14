@@ -22,19 +22,18 @@
     "isLiberal":false,
     "isArtifact":false,
     "isCorporate":false,
-    "secretGoal":"Collect the most wealth. (150Mb)"
-}
-
+    "secretGoal":"Collect the most Wealth. (150Mb)"
+},
 {
     "Volume":1,
-    "ID":1,
+    "ID":2,
     "Deck":"Illuminati (1982)",
-    "groupName":"The Gnomes of Zurich",
-    "power":8,
-    "transPower":8,
+    "groupName":"The Bavarian Illuminati",
+    "power":10,
+    "transPower":10,
     "resistance":0,
-    "income":12,
-    "specialPower":"May move money freely at the end of their turn.",
+    "income":9,
+    "specialPower":"May make one privileged attack each turn at a cost of 5MB.",
     "isBaseIlluminati":true,
     "isSpecialCard":false,
     "isViolent":false,
@@ -49,10 +48,35 @@
     "isLiberal":false,
     "isArtifact":false,
     "isCorporate":false,
-    "secretGoal":"Collect the most wealth."
+    "secretGoal":"Collect the most Power. (35)"
+},
+{
+    "Volume":1,
+    "ID":3,
+    "Deck":"Illuminati: 2012",
+    "groupName":"The Mayan Prophecy",
+    "power":9,
+    "transPower":9,
+    "resistance":0,
+    "income":8,
+    "specialPower":"May discard any controlled group to obtain 5MB from the bank; +4 on any attempt to control artifacts.",
+    "isBaseIlluminati":true,
+    "isSpecialCard":false,
+    "isViolent":false,
+    "isCriminal":false,
+    "isStraight":false,
+    "isWeird":false,
+    "isConservative":false,
+    "isGovernment":false,
+    "isCommunist":false,
+    "isPeaceful":false,
+    "isFanatic":false,
+    "isLiberal":false,
+    "isArtifact":false,
+    "isCorporate":false,
+    "secretGoal":"Collect the most Artifacts. (3)"
 }
-1,2,"Illuminati (1982)","The Bavarian Illuminati",10,10,0,9,"May make one privileged attack each turn at a cost of 5MB.",1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Collect the most power. (35)"
-3,3,"Illuminati: 2012","The Mayan Prophecy",9,9,0,8,"May discard any controlled group to obtain 5MB from the bank; +4 on any attempt to control artifacts.",1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Collect the most artifacts. (3)"
+
 1,4,"Illuminati (1982)","The UFOs",8,8,0,8,"May participate in two attacks per turn.",1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Collect the most groups. (12)"
 1,5,"Illuminati (1982)","The Servants of Cthulhu",7,7,0,8,"+2 on any attempt to destroy any group.",1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Collect the most Fanatic groups. (5)"
 2,6,"Illuminati Deluxe","The Society of Assassins",7,7,0,7,"+4 on any attempt to neutralize any group.",1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Destroy the most groups. (8)"
