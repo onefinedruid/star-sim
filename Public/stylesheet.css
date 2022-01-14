@@ -38,6 +38,7 @@ p {
 }
 
 #card {
+	display: none;
 	width: 20rem;
 	height: 10rem;
 	border: 2px solid white;
@@ -58,4 +59,6 @@ textarea:focus, input:focus{
 	color: darkgrey;
 	font-family: 'Source Code Pro', monospace;
 }
+
+
 
