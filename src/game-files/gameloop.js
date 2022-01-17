@@ -3,17 +3,17 @@ gsap.registerPlugin(Draggable);
 Draggable.create("#card");
 
 let str = "";
-
+let terminal = document.getElementById("terminal");
+let terminalOut = document.getElementById("terminal-out");
 // enable terminal
-document.getElementById("terminal").addEventListener("keyup", function(str) {
-	if (event.keyCode === 13) {
-		str = document.getElementById("terminal").value;
-		document.getElementById("terminal-out").innerHTML = ">Received input:(" + str + ")";
+terminal.addEventListener('keyup',  (e) => {
+	if (e.key === 'Enter') {
+		str = terminal.value;
+		terminalOut.innerHTML = ">Received input:(" + str + ")";
 	};
-	return str;
 });
 
-if (str == "y" || str == "Y") {
+/* if (str == "y" || str == "Y") {
 	var getCard = document.getElementById("card");
 	var display = getComputedStyle(getCard).display;
     if (display == "none") {
@@ -21,7 +21,7 @@ if (str == "y" || str == "Y") {
     } else {
         searchbar.style.display = "none";
     };
-};
+}; */
 
 // choose starting group
 // shuffle deck
