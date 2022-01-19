@@ -32,8 +32,8 @@ p {
 
 #canvas {
 	margin: 2rem;
-	width: 95vw;
-	height: 150vh;
+	margin-bottom: 0;
+	height: 60vh;
 	border: 1px solid white;
 }
 
@@ -42,6 +42,9 @@ p {
 	height: 10rem;
 	border: 2px solid white;
 	border-radius: 20px;
+	font-family: 'Eurostile';
+	text-align: center;
+	transform: translateX(40vw);
 }
 
 #card p {
@@ -53,6 +56,12 @@ textarea:focus, input:focus{
 }
 
 #terminal {
+	margin: 2rem;
+	margin-top: 0;
+	border: 1px solid white;
+}
+
+#terminal-in {
 	background: none;
 	border: none;
 	color: darkgrey;

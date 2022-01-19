@@ -3,12 +3,12 @@ gsap.registerPlugin(Draggable);
 Draggable.create("#card");
 
 let str = "";
-let terminal = document.getElementById("terminal");
+let terminalIn = document.getElementById("terminal-in");
 let terminalOut = document.getElementById("terminal-out");
 // enable terminal
 terminal.addEventListener('keyup',  (e) => {
 	if (e.key === 'Enter') {
-		str = terminal.value;
+		str = terminalIn.value;
 		terminalOut.innerHTML = ">Received input:(" + str + ")";
 	};
 });
