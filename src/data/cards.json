@@ -77,341 +77,341 @@
     "secretGoal":"Collect the most Artifacts. (3)"
 }
 
-1,4,"Illuminati (1982)","The UFOs",8,8,0,8,"May participate in two attacks per turn.",1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Collect the most groups. (12)"
-1,5,"Illuminati (1982)","The Servants of Cthulhu",7,7,0,8,"+2 on any attempt to destroy any group.",1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Collect the most Fanatic groups. (5)"
-2,6,"Illuminati Deluxe","The Society of Assassins",7,7,0,7,"+4 on any attempt to neutralize any group.",1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Destroy the most groups. (8)"
-2,7,"Illuminati: Y2K","Church of the SubGenius",9,9,0,8,"Gets 10MB from the bank for each of its groups when successfully attacked.",1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Choose a secret goal."
-1,8,"Illuminati (1982)","The Discordian Society",8,8,0,9,"+4 on any attempt to control Weird groups; immune to Government or Straight attacks.",1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Collect the most Weird groups. (6)"
-4,9,"Illuminati: 2012","The Communist Collective",8,8,0,9,"Turn over two cards at beginning of turn.",1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Collect the most Communist groups. (6)"
-1,10,"Illuminati (1982)","The Bermuda Triangle",6,6,0,9,"May reorganize groups freely at end of turn.",1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Collect the most alignments. (11)"
-2,11,"Illuminati: Y2K","The Shangri-La",6,6,0,8,"+6 on any attempt to control Peaceful groups; +4 defense against any attack to destroy.",1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Collect the most Peaceful groups. (6)"
-4,12,"No","The Fae",6,4,5,0,"The Fae cannot be destroyed.",0,0,0,0,0,1,0,0,1,1,0,0,0,0,
-1,13,"No","Extreme Sports",2,0,2,2,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,
-1,14,"No","Lawyers",4,4,7,4,,0,0,0,1,1,0,0,1,0,0,0,0,0,1,
-1,17,"No","Private Launch Companies",4,1,3,4,,0,0,0,0,0,1,0,0,0,0,1,0,0,1,
-4,18,"No","Internet Service Providers",4,1,4,6,"+4 on any attempt to control The Internet, Cable TV, Web Designers, or Bloggers.",0,0,0,0,0,1,1,0,0,0,0,0,0,1,
-1,20,"No","Credit Cards",2,0,3,4,,0,0,0,0,1,0,0,0,0,0,0,0,0,1,
-1,22,"No","FEMA",2,3,5,3,"When FEMA makes or aids an attack, that attack automatically fails on a roll of 9 or more.",0,0,0,1,0,0,0,1,0,0,0,0,0,0,
-1,23,"No","Big Media",5,3,6,4,,0,0,0,1,0,1,0,0,1,0,0,1,0,1,
-1,25,"No","Border Patrol",1,0,2,1,,0,0,1,0,0,0,0,1,0,0,0,0,0,0,
-1,26,"No","State Lotteries",2,0,4,4,,0,0,0,1,0,0,0,1,0,0,0,0,0,0,
-1,27,"No","Big Data",4,4,8,5,"May spend one action per turn to look at a face-down group.",0,0,0,0,0,1,0,1,0,0,0,0,0,1,
-1,28,"No","California",5,4,8,5,,0,0,0,0,0,1,0,1,0,0,0,1,0,0,
-1,30,"No","Empty Vee",3,0,4,4,,0,0,0,0,0,1,0,0,0,0,0,1,0,1,
-1,32,"No","Antiwar Activists",2,0,1,1,,0,0,0,0,0,0,0,0,0,1,0,1,0,0,
-1,33,"No","C.I.A.",4,4,6,2,,0,0,1,0,0,0,0,1,0,0,0,0,0,0,
-1,34,"No","Red Cross",1,0,1,1,,0,0,0,0,0,0,0,0,0,1,0,1,0,0,
-1,36,"No","Black Helicopters",0,2,3,0,"+2 on any attempt to neutralize another group.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-1,37,"No","School Boards",2,0,1,1,,0,0,0,0,1,0,0,1,0,0,1,0,0,0,
-1,38,"No","Supreme Court",4,4,6,2,,0,0,0,0,0,0,0,1,0,1,0,1,0,0,
-1,40,"No","Reptoids",3,2,6,4,,0,0,0,1,0,1,0,0,0,0,0,0,0,0,
-1,41,"No","Diamond Mines",3,0,5,6,,0,0,1,1,0,0,1,0,0,0,0,0,0,1,
-1,43,"No","El Niño",0,0,4,0,"+2 on any attempt to destroy another group.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-1,44,"No","Office Temps",0,0,2,1,"Spend 10MB from this group or your Illuminati, and get one extra action for that turn.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-1,45,"No","Comic Books",2,0,4,2,"If controlled by Discordians, this card produces +2 income.",0,0,1,0,0,1,0,0,1,1,1,0,0,1,
-1,46,"No","Nigerian Scams",1,0,1,1,,0,0,1,1,0,0,0,0,0,0,0,0,0,1,
-1,47,"No","Psychiatrists",1,0,3,3,,0,0,0,0,0,1,0,0,0,0,0,1,0,0,
-1,48,"No","Universities",4,5,8,4,,0,0,0,0,0,0,0,0,0,1,0,0,0,0,
-1,49,"Illuminati (1982)","Pointy-Hooded Racists",1,0,3,0,"Feel free to punch these guys.",0,0,1,0,0,1,1,0,0,0,1,0,0,0,
-1,50,"No","Pale People in Black",0,0,2,1,"The Assassins get +2 income if they control this group.",0,0,0,0,0,1,0,0,0,0,0,1,0,0,
-1,51,"No","Tobacco & Liquor Companies",3,0,4,4,,0,0,1,0,1,0,1,0,0,0,1,0,0,1,
-1,52,"No","Fnord Motor Company",3,0,3,3,,0,0,0,0,1,0,0,0,1,1,0,1,0,1,
-1,53,"No","Online Auctions",1,0,1,3,,0,0,0,0,1,0,0,0,0,1,0,0,0,1,
-1,54,"No","Silicon Valley",3,0,5,6,,0,0,0,0,0,1,0,0,1,0,0,0,0,1,
-1,55,"No","Libertarians",2,0,1,1,,0,0,0,0,0,1,1,0,0,0,1,0,0,0,
-1,56,"No","Stem Cell Researchers",2,0,2,2,,0,0,0,0,1,0,0,0,0,1,0,1,0,0,
-1,57,"No","Rosicrucians",3,2,7,1,"+6 on any attempt to control an Artifact.",0,0,0,0,0,1,0,0,0,1,0,0,0,0,
-1,58,"No","Virtual Pets",0,0,4,2,"+2 on any attempt to control another group.",0,0,0,0,0,1,0,0,1,1,1,0,0,0,
-1,59,"No","Low-Carb Diets",0,0,1,1,,0,0,0,0,1,0,0,0,0,0,1,0,0,0,
-1,60,"No","Pave the Earth!",1,0,2,1,"Cthulhu may draw one extra card per turn if it controls this group.",0,0,1,1,0,0,0,0,0,0,1,0,0,0,
-1,61,"No","Genetic Engineers",2,0,2,2,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,
-1,62,"No","Coffee Shops",0,1,1,2,,0,0,0,0,0,0,0,0,0,1,1,1,0,0,
-1,63,"No","Shock Jocks",1,1,4,2,"The Church of the SubGenius may draw one extra card per turn if it controls this group.",0,0,0,0,0,0,0,0,0,0,1,0,0,0,
-1,64,"No","Dentists",1,0,2,2,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,
-1,65,"No","Boy Sprouts",0,0,1,1,,0,0,0,0,1,0,0,0,0,1,0,0,0,0,
-1,66,"No","Kommie Kids Klub",0,0,1,1,,0,0,0,0,0,1,0,0,1,1,0,0,0,0,
-1,67,"No","Hackers",1,1,3,1,"+3 on any attempt to neutralize any group.",0,0,0,1,0,1,0,0,0,0,0,0,0,0,
-1,68,"No","TSA",3,0,4,2,,0,0,0,0,0,1,1,1,0,0,0,0,0,0,
-1,69,"No","Soft Drinks",1,0,3,3,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-1,70,"No","International Cocaine Smugglers",4,1,7,5,"+4 on any attempt to conrol Punk Rockers, Cycle Gangs, or Hollywood.",0,0,1,1,0,0,0,0,0,0,0,0,0,0,
-1,71,"No","Door-To-Door Salesmen",0,0,2,1,"The Church of the SubGenius gets +2 income if it controls this group.",0,0,0,0,1,0,0,0,0,0,0,0,0,0,
-1,72,"No","New York",5,3,7,5,,0,0,0,0,0,0,0,1,0,0,0,1,0,0,
-1,73,"No","E.P.A.",2,0,2,2,,0,0,0,0,0,0,0,1,0,0,0,1,0,0,
-1,74,"No","The Great Pyramid",4,2,6,3,"Your Artifacts cannot be stolen, neutralized, or destroyed.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-1,75,"No","Euthanasia Advocates",0,0,1,1,"This group cannot be destroyed, but any attack to destroy its master gets a +2.",0,0,0,0,0,1,0,0,0,0,0,1,0,0,
-1,76,"No","Open Gnoonix",0,1,1,1,,0,0,0,0,0,1,0,0,0,1,0,0,0,0,
-1,77,"No","The Mafia",5,3,7,5,"+3 for direct control of any Criminal group.",0,0,1,1,0,0,0,0,0,0,0,0,0,0,
-1,78,"No","Fast Food Chains",2,0,2,3,,0,0,0,0,1,0,0,0,0,0,1,0,0,1,
-1,79,"No","Survivalists",1,1,3,0,"+2 Resistance against attacks by Militia or Minutemen.",0,0,1,0,0,0,1,0,0,0,0,0,0,0,
-1,80,"No","Dolphins",0,0,2,0,,0,0,0,0,0,0,0,0,0,1,0,0,0,0,
-1,81,"No","Urban Gangs",1,0,2,1,,0,0,1,1,0,0,0,0,0,0,0,0,0,0,
-1,82,"No","OPEC",5,3,4,4,,0,0,0,1,1,0,1,0,0,0,0,0,0,0,
-1,84,"No","Fort Knox",3,0,5,1,"Gets 1MB during the income phase of each player's turn.",0,0,0,0,0,0,0,1,0,0,0,0,0,0,
-1,85,"No","Overnight Delivery Services",2,2,6,4,"Owner may make one extra money transfer each turn.",0,0,0,0,1,0,0,0,0,1,0,0,0,0,
-1,86,"No","Federal Reserve",6,4,8,6,"When it transfers money, that money can go to any group in the same power structure.",0,0,0,0,0,0,0,1,0,0,0,0,0,0,
-1,87,"No","W.I.T.C.H.",3,2,5,3,,0,0,1,0,0,1,0,0,0,0,1,0,0,0,
-1,88,"No","Furries",0,0,3,2,,0,0,0,0,0,1,0,0,0,1,0,0,0,0,
-1,89,"No","Military Academics",2,0,1,1,,0,0,0,0,1,0,0,1,0,0,1,0,0,0,
-1,90,"No","Science Alarmists",1,2,3,1,,0,0,0,0,0,1,0,0,0,0,1,0,0,0,
-1,91,"No","Actuaries",2,0,4,3,"On your turn, you may look at the amount of money on any one group except an Illuminati.",0,0,0,0,1,0,0,0,0,1,0,0,0,0,
-1,92,"No","PETA",2,1,3,2,,0,0,0,0,0,0,0,0,0,1,0,1,0,0,
-1,93,"No","Clone Arrangers",3,2,5,2,"+3 on any attempt to control any group.",0,0,1,0,0,1,0,0,1,0,0,0,0,0,
-1,94,"No","Centers for Disease Control",3,2,5,2,"+5 on any attempt to destroy Bird Flu.",0,0,0,0,0,0,0,1,0,1,0,1,0,0,
-1,95,"No","Multinational Oil Companies",6,0,6,8,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-1,96,"No","Frankenfoods",2,0,3,1,"This group takes on all the alignments of its master for all purposes, including victory conditions.",0,0,1,0,0,1,0,0,0,0,0,0,0,1,
-1,98,"No","NASA",2,0,1,1,"+2 on any attempt to control Space Station.",0,0,0,0,0,0,0,1,0,1,0,0,0,0,
-1,99,"No","Trekkies",1,1,4,2,"+1 Income if controlled by Hollywood or NASA.",0,0,0,0,0,1,0,0,0,0,1,1,0,0,
-1,100,"No","Special Prosecutor",3,3,5,2,"+3 on any attempt to destroy another group. May make a priveleged attack on government groups at no cost.",0,0,0,0,0,0,0,1,0,0,1,0,0,0,
-1,101,"No","Telephone Psychics",0,0,1,1,,0,0,0,1,0,0,0,0,0,1,0,0,0,0,
-1,102,"No","CFL-AIO",3,0,2,2,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,
-3,103,"No","Pranksters",1,1,1,0,,0,0,0,0,1,0,0,0,0,0,1,0,0,0,
-3,104,"No","Renasissance Faires",0,0,1,1,,0,0,0,0,0,1,0,0,0,1,1,0,0,0,
-1,105,"No","Tabloids",1,0,2,2,"+3 for direct control of Convenience Stores.",0,0,0,0,0,1,1,0,0,0,0,0,0,0,
-3,106,"No","Starbucks",2,1,6,4,"+4 for direct control of Baristas.",0,0,0,0,0,0,0,0,0,0,1,0,0,0,
-1,107,"No","The United Nations",5,3,4,2,,0,0,0,0,0,0,0,1,0,1,0,1,0,0,
-1,108,"No","LSD",0,0,1,0,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,
-1,109,"No","Evil Geniuses For A Better Tomorrow",2,2,4,2,"+4 on any attempt to control, neutralize, or destroy the Orbital Mind Control Lasers.",0,0,1,0,0,1,0,0,0,0,0,0,0,0,
-3,110,"No","Bored Games",0,0,1,1,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-1,112,"No","Cable TV",2,1,4,3,,0,0,1,0,1,1,0,0,0,1,0,0,0,1,
-3,113,"No","Sunsets",0,0,1,0,,0,0,0,0,0,0,0,0,0,1,1,0,0,0,
-1,114,"No","Space Station",2,1,3,2,,0,0,0,0,0,0,0,1,0,0,0,1,0,0,
-3,115,"No","Hot Air Balloons",0,0,1,1,,0,0,0,0,0,0,0,0,0,1,0,0,0,0,
-1,116,"No","Public Art",0,0,2,1,"Bavarian Illuminati or Discordian Society gets +2 income if it controls this group.",0,0,0,0,0,1,0,0,0,0,0,1,0,0,
-1,117,"No","LARPers",0,0,1,0,,0,0,0,0,0,1,0,0,0,0,1,0,0,0,
-1,118,"No","Gun Lobby",2,2,4,2,,0,0,1,0,0,0,1,0,0,0,1,0,0,1,
-3,119,"No","Underwater Basket Weavers",0,0,1,0,,0,0,0,0,0,1,0,0,0,1,0,1,0,0,
-3,120,"No","Inter-Dimensional Time Police",3,2,5,3,,0,0,1,0,1,0,0,0,0,0,0,0,0,0,
-2,121,"No","BATF",3,1,3,2,,0,0,1,0,0,1,1,1,0,0,0,0,0,0,
-2,122,"No","Junk Mail",1,0,2,2,"+4 on any attempt to control the Post Office.",0,0,0,1,0,1,0,0,0,0,0,0,0,0,
-3,123,"No","Lumberjacks",1,0,1,2,,0,0,0,0,1,0,1,0,0,0,0,0,0,0,
-2,124,"No","Liberation Theology",3,2,5,3,,0,0,1,0,0,0,1,0,0,0,1,0,0,0,
-2,125,"No","Orbital Mind Control Lasers",3,2,4,0,"On their turn, owner can add, remove, or reverse an alignment of any one other group in play; change lasts for that turn only.",0,0,1,0,0,1,0,0,0,0,0,0,0,0,
-2,126,"No","Convenience Stores",2,0,2,2,,0,0,0,0,1,0,0,0,0,0,0,0,0,1,
-2,127,"No","Science Fiction Fans",1,1,4,2,"+2 on any attempt to control Weird groups by any card in the owner's power structure.",0,0,0,0,0,1,0,0,0,0,1,1,0,0,
-4,128,"No","The Internet",4,4,3,0,"The Internet earns 2MB for every group it controls.",0,0,0,0,0,1,0,0,1,1,0,0,0,0,
-2,129,"No","Church of Violentology",3,0,3,3,,0,0,1,1,0,1,0,0,0,0,1,0,0,1,
-2,130,"No","Gay Activists",2,1,2,2,,0,0,0,0,0,0,0,0,0,1,1,1,0,0,
-2,131,"No","Fraternal Orders",1,0,2,2,,0,0,0,0,1,0,1,0,0,1,0,0,0,0,
-2,132,"No","Druids",1,0,2,1,,0,0,0,0,0,1,0,0,0,1,0,1,0,0,
-2,133,"No","Home Schoolers",1,0,1,1,,0,0,0,0,1,0,0,0,0,0,0,1,0,0,
-3,134,"No","Patent and Trademark Office",2,2,6,2,"+4 on any attempt to control an Artifact.",0,0,0,0,1,0,1,1,0,0,0,0,0,0,
-2,135,"No","Crop Circles",0,0,2,0,"UFOs may draw one extra card per turn if it controls this group.",0,0,0,0,0,1,0,0,0,1,0,0,0,0,
-2,136,"No","Health Food Stores",1,0,4,2,"+2 on any attempt to control and Straight group.",0,0,0,0,0,1,0,0,0,1,1,1,0,1,
-2,137,"No","Baristas",1,2,4,1,"+4 on any attack against Coffee Shops.",0,0,0,0,1,1,0,0,1,0,0,1,0,1,
-2,138,"No","Cattle Mutilators",1,0,2,1,"The UFOs may draw one extra card per turn if they control this group.",0,0,1,0,0,1,0,0,0,0,0,0,0,0,
-2,139,"No","Warehouse 23",0,4,7,4,,0,0,0,0,0,1,0,1,0,0,0,0,0,0,
-2,140,"No","Texas",5,2,5,4,,0,0,0,0,0,0,1,1,0,0,0,0,0,0,
-2,141,"No","Weathermen",1,0,2,1,"The Bermuda Triangle may draw one extra card per turn if it controls this group.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-2,142,"No","Voice Mail",0,2,2,0,"Nigerian Scams gets a +1 on any attempt to control Voice Mail.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-2,143,"No","American Autoduel Association",1,0,1,1,,0,0,1,0,0,1,0,0,0,0,0,0,0,0,
-2,144,"No","Minutemen",1,0,2,1,"No Government group can control, or aid in an attempt to control, the Minutemen.",0,0,1,0,0,0,1,0,0,0,0,0,0,0,
-2,145,"No","NATO",6,1,5,3,"+3 on any attempt to destroy any Communist group.",0,0,1,0,0,1,1,1,0,0,0,0,0,0,
-2,146,"No","Roadside Exhibits",0,0,1,1,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,
-2,147,"No","Paranoids",0,1,6,0,"All your groups have +2 to their defense against any attack.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-2,148,"No","Gamers",1,0,1,1,,0,0,0,0,0,1,0,0,0,0,1,0,0,0,
-2,149,"No","L-7 Society",1,0,2,1,"+4 for direct control, neutralization, or destruction of Orbital Mind Control Lasers.",0,0,0,0,0,1,0,0,1,0,0,0,0,0,
-2,150,"No","Moonies",1,0,2,2,,0,0,0,0,0,1,0,0,0,1,0,0,0,0,
-2,151,"No","Local Police Departments",2,0,1,1,"The FBI has a +2 advantage to control Local Police Departments.",0,0,0,0,1,0,1,1,0,0,0,0,0,0,
-2,152,"No","Invasive Species",0,0,2,1,,0,0,1,0,0,1,0,0,1,0,0,0,0,0,
-2,153,"No","Reality Shows",1,0,2,2,,0,0,0,0,0,1,1,0,0,0,0,0,0,0,
-2,154,"No","Oxygen Bars",1,0,2,2,"+2 on any attempt to control Hipsters.",0,0,0,0,1,0,0,0,0,0,0,0,0,0,
-4,155,"No","Web Designers",2,0,3,2,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-3,156,"No","Giant Space Worms",5,0,3,0,,0,0,1,0,0,1,0,0,0,0,0,0,0,0,
-3,157,"No","Voodoo Priests",2,0,3,0,,0,0,0,1,0,0,0,0,0,0,1,0,0,0,
-2,158,"No","Embedded Media",2,2,3,1,"Treat this group as Conservative if it attempts to attack a Conservative group.",0,0,1,0,0,0,0,0,0,0,0,1,0,0,
-3,159,"No","Spaghetti Westerns",2,0,1,2,,0,0,1,0,0,1,1,0,0,0,0,0,0,0,
-4,160,"No","Pizzerias",2,1,1,3,"A family business since 1807. Fnord.",0,0,0,0,0,1,0,0,0,1,1,0,0,1,
-2,161,"No","Otaku",1,0,2,2,,0,0,0,0,0,1,0,0,0,1,1,0,0,0,
-2,162,"No","Copy Shops",1,0,1,1,,0,0,0,0,0,0,0,0,0,1,0,0,0,0,
-2,163,"No","Neo-Classical Idealism",3,3,2,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-2,164,"No","Paparazzi",0,0,2,1,"+2 on any attempt to destroy another group.",0,0,0,1,0,0,0,0,0,0,1,0,0,0,
-2,165,"No","Feminists",2,0,3,1,"+3 on any attempt to control any Liberal group.",0,0,1,0,0,0,0,0,0,0,0,1,0,0,
-2,166,"No","Post Office",4,3,2,0,,0,0,0,0,1,0,0,1,0,0,0,0,0,0,
-2,167,"No","Internet Memes",0,2,1,1,,0,0,0,0,1,1,1,0,1,1,1,1,0,0,
-2,168,"No","Chinese Campaign Donors",3,1,4,3,"Treat this group as Government when it attempts to control a Government group.",0,0,0,0,0,0,0,0,1,0,0,0,0,0,
-2,169,"No","Video Stores",1,0,2,2,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-2,170,"No","Elvis Impersonators",1,0,2,1,"Discordia may draw one extra card per turn if it controls this group.",0,0,0,0,0,1,0,0,0,1,0,0,0,0,
-2,171,"No","Morticians",0,0,1,1,,0,0,0,0,1,0,0,0,0,1,0,0,0,0,
-2,172,"No","Kudzu Planters",1,0,3,1,,0,0,0,0,0,1,0,0,1,0,0,0,0,0,
-2,173,"No","Microstuff",6,0,6,7,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,
-2,174,"No","Ninety Minutes",2,0,2,2,"Ninety Minutes has +10 resistance to Straight or Government groups.",0,0,0,0,0,0,0,0,0,0,0,1,0,0,
-3,176,"No","Native American Casinos",2,2,6,3,"+1MB added to your Illuminati's income.",0,0,0,0,1,0,1,0,0,1,0,0,0,0,
-3,177,"No","Celebrity Rehab Clinics",2,0,4,2,,0,0,0,0,1,0,0,0,0,0,1,0,0,0,
-2,178,"No","Deprogrammers",1,0,4,2,"+4 to any attempt to destroy a Weird or Fanatic group (+8 if it's both). Discordia's puppets are not immune to direct attacks from the Deprogrammers.",0,0,1,0,0,0,0,0,0,0,1,0,0,0,
-2,179,"No","Bus Drivers",1,0,1,1,,0,0,0,0,0,1,0,1,0,0,0,0,0,0,
-2,180,"No","All-Martz",5,0,5,5,,0,0,0,0,1,0,0,0,0,0,0,0,0,1,
-2,181,"No","Cycle Gangs",1,0,3,1,"+2 on any attempt to destroy any group.",0,0,1,1,0,1,1,0,0,0,0,0,0,0,
-2,182,"No","I.R.S.",4,1,5,0,"Owning player may tax each opponent 2MB on his own income phase. Tax may come from any group. If a player has no money, he owes no tax.",0,0,0,1,1,0,0,1,0,0,0,0,0,0,
-3,183,"No","Hipsters",1,2,5,3,,0,0,0,0,0,1,0,0,0,0,1,1,0,0,
-3,184,"No","Grim Reapers",0,0,1,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-3,185,"No","Screen Savers",0,1,1,0,,0,0,0,0,0,1,0,0,0,1,0,0,0,0,
-3,186,"No","Ultramegahyperplexes",1,0,6,5,"+5 for direct control of Hollywood, or vice versa.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-3,187,"No","Arms Smugglers",2,0,5,4,"Cthulhu gets +2 income if it controls this group.",0,0,1,1,0,0,1,0,0,0,0,0,0,0,
-4,188,"No","Sushi Bars",1,0,1,1,,0,0,0,0,1,0,0,0,0,1,0,0,0,0,
-3,189,"No","Yakuza",5,3,8,4,"+2 on any attempt to control any Criminal group.",0,0,1,1,0,0,1,0,0,0,0,0,0,0,
-3,190,"No","Defense Contractors",4,0,4,4,,0,0,1,0,1,0,1,0,0,0,0,0,0,0,
-3,191,"No","Animal Testing Labs",1,0,2,2,,0,0,1,0,0,1,0,0,0,0,0,0,0,0,
-3,192,"No","Center for Weird Studies",1,1,3,2,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,
-3,193,"No","Enormous Toy Stores",1,0,3,3,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,
-3,194,"No","Offshore Call Centers",1,2,4,3,,0,0,0,0,1,0,0,0,0,1,0,0,0,0,
-3,195,"No","Alien Abductors",2,0,4,1,"The UFOs get +2 income if they control this group.",0,0,1,0,0,1,0,0,0,0,0,0,0,0,
-3,196,"No","Vampires",0,2,3,0,"The Assassins may draw one extra card per turn if they control this group.",0,0,1,0,0,1,0,0,0,0,0,0,0,0,
-3,197,"No","Las Vegas",4,0,5,7,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,
-3,198,"No","Day Care Centers",1,0,1,1,,0,0,0,0,0,0,0,0,0,1,0,0,0,0,
-3,199,"No","Pod People",1,0,1,1,,0,0,0,0,0,0,0,0,1,1,1,1,0,0,
-3,200,"No","High Fashion",1,0,6,4,"Church of the SubGenius or Discordia gets +2 income if it controls this group.",0,0,0,0,1,0,0,0,0,1,0,0,0,0,
-3,201,"No","Webcams",2,0,3,3,"If Webcams and Bloggers are in the same power structure, each gets +1 Income.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-3,202,"No","Saturday Morning Cartoons",1,0,3,3,,0,0,1,0,0,0,0,0,1,0,1,0,0,0,
-3,203,"No","Museums",1,0,3,3,,0,0,0,0,0,0,0,0,0,1,0,0,0,0,
-3,204,"No","Semiconscious Liberation Army",0,4,6,0,"+1 on any attempt to destroy any group.",0,0,1,0,0,0,0,0,0,0,0,1,0,0,
-3,205,"No","Fiendish Fluoridators",1,0,1,1,,0,0,0,0,0,1,0,0,1,0,1,0,0,0,
-3,206,"No","Recording Industry",4,0,4,4,,0,0,0,0,1,1,1,0,0,0,0,1,0,1,
-3,207,"No","Pentagon",6,0,5,4,,0,0,1,0,1,0,0,1,0,0,0,0,0,0,
-3,208,"No","Moral Minority",2,0,2,2,,0,0,0,0,1,0,1,0,0,0,1,0,0,0,
-3,209,"No","Zero Tolerance",0,1,1,0,"+3 to any attempt to control School Boards or TSA.",0,0,0,0,0,0,1,0,0,0,1,0,0,0,
-3,210,"No","Loan Sharks",2,0,3,3,,0,0,0,1,0,0,1,0,0,0,0,0,0,0,
-3,211,"No","The Men In Black",3,2,6,4,,0,0,0,0,0,1,0,1,0,0,0,0,0,0,
-3,212,"No","Recyclers",2,0,3,3,"Pay 5MB from this group to draw an extra card on your turn. This is not an action.",0,0,0,0,0,0,0,0,0,0,1,1,0,0,
-3,213,"No","Theme Parks",1,0,3,3,,0,0,0,0,0,1,0,0,0,0,1,0,0,1,
-3,214,"No","Animal Flu",1,1,4,0,"+2 on any attempt to destroy any group.",0,0,0,0,0,0,0,1,0,0,0,0,0,0,
-3,215,"No","Soap Operas",0,0,2,3,,0,0,0,0,0,1,0,0,0,0,1,0,0,0,
-3,216,"No","Savings and Loans",2,0,3,4,,0,0,0,1,1,0,0,0,0,0,0,0,0,1,
-3,217,"No","Spammers",0,0,3,3,"The Network gets +2 income if it controls this group.",0,0,0,1,1,0,0,0,0,0,0,0,0,1,
-3,218,"No","Punk Rockers",1,0,3,1,,0,0,1,0,0,1,0,0,0,0,0,1,0,0,
-3,219,"No","Congressional Wives",3,0,3,3,,0,0,0,0,1,0,1,0,0,0,0,0,0,0,
-3,220,"No","Exterminators",1,0,3,2,"+2 on any attempt to neutralize another group.",0,0,1,0,0,1,0,0,0,0,0,0,0,0,
-3,221,"No","Airlines",4,0,4,3,"Bermuda gets +2 income if it controls this group.",0,0,0,0,1,0,0,0,0,0,0,0,0,1,
-3,222,"No","Democrats",4,0,3,3,,0,0,0,0,0,0,0,1,0,0,0,1,0,1,
-3,223,"No","Video Games",3,0,3,4,"Microstuff has a +1 for direct control of this group.",0,0,0,0,0,0,0,0,0,0,1,0,0,0,
-3,224,"No","Anti-Nuclear Activists",2,0,2,1,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,
-3,225,"No","Society for Creative Anarchism",1,0,2,1,,0,0,1,0,0,1,0,0,0,0,0,0,0,0,
-3,226,"No","Parent/Teacher Agglomeration",1,0,1,1,,0,0,0,0,1,0,1,0,0,1,0,0,0,0,
-3,227,"No","The Phone Company",4,2,5,3,,0,0,0,0,1,0,0,0,0,1,0,0,0,1,
-3,228,"No","Flat Earthers",1,0,1,1,,0,0,0,0,0,1,1,0,0,0,0,0,0,0,
-3,229,"No","Church of Elvis",1,0,3,2,"+5 for direct control of Elvis Impersonators, or vice versa.",0,0,0,0,0,1,1,0,0,0,0,0,0,0,
-3,230,"No","Green Party",4,3,6,3,,0,0,0,0,0,0,0,1,0,0,1,1,0,0,
-3,231,"No","Robot Sea Monsters",2,0,2,2,,0,0,1,0,0,1,0,0,0,0,0,0,0,0,
-3,233,"No","Eco-Guerrillas",2,0,2,2,,0,0,1,0,0,0,0,0,0,0,1,1,0,0,
-3,234,"No","S.M.O.F.",1,0,2,0,"+5 for direct control of Science Fiction Fnas. +2 for direct control of Trekkies.",0,0,0,0,0,1,0,0,0,0,0,0,0,0,
-3,235,"No","Girlie Magazines",2,0,2,3,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,
-3,236,"No","Big Pharma",4,2,8,6,,0,0,0,1,0,0,1,1,0,0,0,0,0,1,
-4,237,"No","Weed Stores",1,0,5,4,,0,0,0,0,1,0,0,0,1,1,1,1,0,1,
-3,238,"No","F.C.C.",4,0,3,3,"+2 on any attempt to control Cable TV, Recording Industry, or Shock Jocks.",0,0,0,0,1,0,1,1,0,0,0,0,0,0,
-3,239,"No","TV Preachers",2,0,3,3,"+3 for direct control of the Moral Minority.",0,0,0,0,1,0,1,0,0,0,1,0,0,0,
-3,240,"No","Nutrition Nazis",1,0,2,1,"+5 on any attempt to destroy Convenience Stores, Fast Food Chains, or Health Food Stores.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-3,241,"No","Intelligent Design",3,0,3,3,"+4 on any attempt to control School Boards.",0,0,0,0,0,0,1,0,0,0,1,0,0,0,
-3,242,"No","Professional Sports",2,0,3,4,,0,0,1,1,1,0,1,0,0,0,1,1,0,1,
-3,243,"No","Kiddie TV",1,1,3,2,,0,0,0,0,0,1,0,0,1,1,1,0,0,1,
-3,244,"No","Barcodes",0,2,3,1,"The Gnomes of Zurich may draw one extra card per turn if it controls this group.",0,0,0,0,1,0,0,0,1,0,0,0,0,0,
-3,245,"No","Cell Phones",2,1,3,3,"+4 on any attack on the Phone Company, and vice versa.",0,0,0,0,1,0,0,0,0,0,1,0,0,1,
-3,246,"No","Republicans",4,0,4,4,,0,0,1,1,0,0,1,1,0,0,1,0,0,1,
-3,247,"No","Goldfish Fanciers",1,0,1,1,,0,0,0,0,0,0,0,0,0,1,1,0,0,0,
-3,248,"No","Wall Street",6,0,6,5,,0,0,0,1,1,1,1,0,0,0,0,1,0,1,
-3,249,"No","Madison Avenue",3,3,8,4,"+5 on any attempt to control Big Media or Empty Vee.",0,0,0,0,0,0,0,0,0,0,1,0,0,1,
-3,250,"No","Offshore Banks",3,2,8,5,"Owner may make one extra money transfer each turn.",0,0,0,1,0,1,1,0,0,0,0,0,0,1,
-3,251,"No","Pollsters",2,2,4,2,,0,0,0,0,0,0,0,0,0,0,1,0,0,0,
-3,252,"No","Yuppies",2,1,5,4,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,
-3,253,"No","Bobbleheads",0,0,1,1,,0,0,0,0,0,0,0,0,0,0,1,0,0,0,
-3,254,"No","Hollywood",5,0,5,5,,0,0,0,0,0,1,1,0,1,0,0,1,0,0,
-3,255,"No","Chain Letters",1,1,3,2,,0,0,0,1,0,0,1,0,0,0,0,0,0,0,
-3,256,"No","Christmas",2,0,5,5,,0,0,0,0,1,0,0,0,0,1,1,0,0,1,
-3,257,"No","Secret Service",4,0,4,0,,0,0,0,0,1,0,0,1,0,0,0,0,0,0,
-3,258,"No","Nephews of God",2,0,2,2,,0,0,0,0,0,0,1,0,0,0,1,0,0,0,
-3,259,"No","Phone Phreaks",0,1,2,1,"+3 on any attempt to control, neutralize, or destroy the Phone Company.",0,0,0,1,0,0,0,0,0,0,0,1,0,0,
-3,260,"No","International Communist Party",4,0,6,4,"+3 on any attempt to control any Communist group.",0,0,0,0,0,0,0,1,1,0,0,0,0,0,
-3,261,"No","Computer Dating Services",0,0,3,2,"The Network may draw one extra card per turn if it controls this group.",0,0,0,0,0,0,0,0,0,1,0,0,0,0,
-3,262,"No","Underground Newspapers",1,1,2,1,,0,0,1,0,0,1,0,0,1,0,0,1,0,0,
-3,263,"No","Militia",2,0,2,2,"The Libertarians have +2 to control this group.",0,0,1,0,0,0,1,0,0,0,0,0,0,0,
-3,264,"No","KGB",5,2,7,4,"+2 on any attempt to destroy any group.",0,0,1,0,0,0,0,0,1,0,0,0,0,0,
-3,265,"No","Intellectuals",1,0,3,1,,0,0,0,0,0,0,0,0,0,1,0,1,0,0,
-3,266,"No","Bloggers",2,2,4,2,"The group that controls Bloggers gets +10 to defend itself against any attack.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-3,267,"No","Conspiracy Theorists",0,0,4,3,"The Bavarian Illuminati may draw one extra card per turn if it controls this group.",0,0,0,0,0,1,0,0,0,0,1,0,0,0,
-3,268,"No","The Ghoul Channel",1,0,2,2,,0,0,1,0,0,1,0,0,0,0,0,1,0,0,
-3,269,"No","Nanotech Companies",2,0,4,4,"Silicon Valley has a +2 for direct control of this group.",0,0,0,0,0,1,0,0,0,0,0,0,0,1,
-3,270,"No","Homeland Security",4,2,5,3,,0,0,1,0,0,0,1,1,0,0,1,0,0,0,
-3,271,"No","South American Nazis",3,0,4,2,,0,0,1,0,0,1,1,0,0,0,0,0,0,0,
-3,272,"No","Chemtrails",0,3,5,1,"Once per turn, owner can remove an alignment of any other group in play; change lasts for that turn only.",0,0,1,0,0,1,0,1,0,0,0,0,0,0,
-4,273,"No","Whiteboy Rappers",1,1,1,3,,0,0,0,1,1,0,1,0,0,0,0,0,0,0,
-4,274,"No","F.D.A.",4,0,3,3,"+4 to any attack against Tobacco & Liquor Companies, Weed Stores, or Frankenfoods.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-4,275,"No","Billionaires",1,0,4,10,"+4 to any attempt to control Private Launch Companies.",0,0,0,1,0,1,1,0,0,0,0,1,0,1,
-4,276,"No","Non-Fungible Tokens",0,0,1,0,"Income is equal to the roll of one die.",0,0,0,0,1,0,0,0,0,0,1,0,0,0,
-4,277,"No","Bit-o-Currency",0,0,3,0,"Income equal to the roll of two dice per turn.",0,0,0,1,0,1,0,0,0,0,1,0,0,0,
-4,278,"No","Bobcasts",1,1,1,3,"+4 on any attempt to control Hipsters.",0,0,0,0,0,0,0,0,0,0,1,0,0,0,
-1,279,"No","F.B.I.",4,3,4,2,,0,0,0,0,1,0,0,1,0,0,0,0,0,0,
-4,282,"No","Baphomet Babes",2,0,2,3,"Pagans rejoice! +4 to any attmept to control Druids.",0,0,0,0,0,1,0,0,0,0,1,0,0,0,
-4,283,"No","Lucifer X. Satan, CEO",5,3,7,8,"All cards attached to Lucifer X. Satan, CEO get +3 to defend against any attack.",0,0,1,1,0,1,0,0,0,0,0,0,0,1,
-4,284,"No","Great Cthulhu",5,0,7,0,,0,0,1,0,0,1,0,0,1,0,1,0,0,0,
-1,400,"No","Gremlins",0,0,0,0,"Play at the beginning of any other player's turn, before he takes any actions. That player loses one action for the turn (so, unless he plays a card of his own, he gets only one action).",0,1,0,0,0,0,0,0,0,0,0,0,0,0,
-1,401,"No","Assassination",0,0,0,0,"Play this card immediately after the dice are rolled on any attempt (by any player) to destroy, control, neutralize. That roll is immediately changed, retroactively, to a 2.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,
-1,402,"No","Red Scare",0,0,0,0,"Play this card at any time to give all of your Conservative groups extra income equal to their normal income. Or play this card at any time to add 10 to defend any Conservative group against attack.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,
-1,403,"No","Nationalization",0,0,0,0,"Play this card at any time to give all of your Government groups extra income equal to their normal income. Or play this card at any time to add 10 to defend any Governemtn group against attack.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,
-1,404,"No","Murphy's Law",0,0,0,0,"Play this card immediately after the dice are rolled on any attempt (by any player) to destroy, control, or neutralize. That roll is immediately changed, retroactively, to a 12.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,
-1,405,"No","Secrets Man Was Not Meant to Know",0,0,0,0,"Play this card when any other special card is played, for ANY purpose. That card is immediately neutralized; it has no effect. Both cards are discarded.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,
-1,406,"No","Family Values",0,0,0,0,"Play this card at any time to give all of your Straight groups extra income equal to their normal income. Or play this card at any time to add 10 to defend any Straight group against attack.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,
-1,407,"No","Nonviolent Resistance",0,0,0,0,"Play this card at any time to add 10 to any attack against a Violent group.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,
-1,408,"No","Charismatic Leader",0,0,0,0,"Play this card at any time to add 10MB to the treasury of any Fanatic group.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,
-1,409,"No","Apathy",0,0,0,0,"Play this card during an attack. Except for the Illuminati themselves, no group may use its transferable power during this attack; any non-Illuminati uses of transferable power already announced do not count. Players who want to add more money to the attack, or use cards, may do so.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,
-1,410,"No","Flower Power",0,0,0,0,"Play this card at any time to give all of your Peaceful groups extra income equal to twice their normal income. Or play this card at any time to add 10 to defend any Peaceful group against attack.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,
-1,411,"No","Time Warp",0,0,0,0,"Play this card during your turn to allow you one extra action on that turn. Remember, no individual group except the UFOs may act more than once during one turn.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,
-1,412,"No","Dollars for Decency",0,0,0,0,"Play this card at any time to add 10MB to the treasury of any Straight group.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,
-1,413,"No","Computer Espionage",0,0,0,0,"Play this card at any time to either count the money on any group card or examine all of one player's special cards.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,
-1,414,"No","Senate Investigating Committee",0,0,0,0,"Play this card at the beginning of any other player's turn. The player loses his turn completely.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,
-1,415,"No","Deep Agent",0,0,0,0,"Play this card after privilege has been invoked. The privilege is totally abolished. That attack cannot be made privileged.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,
-1,416,"No","Riot",0,0,0,0,"Play this card at any time to give all of your Violent groups extra income equal to their nroaml income. Or play this card at any time to add 10 to defend any Violent group against attack.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,
-1,417,"No","Interference",0,0,0,0,"You may interfere with one privileged attack. No other players may interfere.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,
-1,418,"No","All Your Base",0,0,0,0,"Play this card at any time to add 10MB to the treasury of any Weird group.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,
-2,419,"No","Political Correctness",0,0,0,0,"Play this card at any time to give all your Liberal groups extra income equal to their normal income. Or play this card at any time to add 10 to defend any Liberal group against attack.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,
-2,420,"No","Bailout",0,0,0,0,"Play this card at any time that is NOT your turn. Each of your groups collects income. Exceptions: the Post Office does not pay, and the IRS does not tax.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,
-2,421,"No","Hidden Connection",0,0,0,0,"Play this card at any time that you acquire or move a group. You may place the group on a side of another card where there is no arrow. If the puppet group is moved again, the ""virtual"" arrow on the master is lost.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,
-2,422,"No","Full Moon",0,0,0,0,"Play this card at any time to give all of your Fanatic groups extra income equal to their normal income. Or play this card at any time to add 10 to defend any Fanatic group against attack.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,
-2,423,"No","Freaking the Mundanes",0,0,0,0,"Play this card at any time to give all of your Weird groups extra income equal to 2x their normal income. Or play this card at any time to add 10 to defend any Weird group against attack.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,
-2,424,"No","Cat Burglar",0,0,0,0,"+10 to any attempt to control an Artifact owned by a rival. Or play at any time except during an attack to take control of an uncontrolled Artifact.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,
-2,425,"No","Power To The People",0,0,0,0,"Play this card at any time to add 10MB to the treasury of any Communist group.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,
-2,426,"No","Crackdown on Crime",0,0,0,0,"Play this card at any time to add 10 to any attack against a Criminal group.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,
-2,427,"No","Unmasked",0,0,0,0,"Play this card on your turn. Pick any one Illuminati card which is not currently in play, and substitute it for your current Illuminati. You are now the new Illuminati for all purposes. This counts as an action, and may be used to end the game.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,
-2,428,"No","Reign of Terror",0,0,0,0,"Play this card at any time to add 10MB to the treasury of any Violent group.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,
-2,429,"No","Kinder and Gentler",0,0,0,0,"Play this card at any time to add 10MB to the treasury of any Peaceful group.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,
-2,430,"No","Subliminals",0,0,0,0,"Play this card during any attack to add 10 to the Power or Resistance of either the attacker or the defender.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,
-2,431,"No","Talk Like A Pirate Day",0,0,0,0,"Play this card at any time to add 10 to any Straight group.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,
-2,432,"No","Anthrax",0,0,0,0,"Play this card at any time to add 10 to any attack against a Government group.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,
-2,433,"No","I Lied",0,0,0,0,"Play this card when you have aided an attack, before the dice are rolled, to get back all the money you contributed to the attack. When you plan to use this card, make sure other players can verify how much money you contributed, to avoid arguments.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,
-2,434,"No","Atrocity Rumors",0,0,0,0,"Play this card at any time to add 10 to any attack against a Peaceful group.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,
-2,435,"No","Ninjas",0,0,0,0,"Play this card at any time except during an attack to put any one uncontrolled group in the discard pile. It does not count as destroyed.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,
-2,436,"No","Backfire",0,0,0,0,"Play at any time to move any Artifact to the uncontrolled area. It an attack was in progress, that Artifact has no effect.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,
-2,437,"No","Apophenia",0,0,0,0,"Play this card at any time to add 10 to defend any attack on a Weird group.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-3,438,"No","Death To All Fanatics",0,0,0,0,"Play this card at any time to add 10 to any attack against a Fanatic group.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,
-3,439,"No","Mob Influence",0,0,0,0,"Play this card at any time to give all of your Criminal groups extra income equal to their normal income. Or play this card at any time to add 10 to defend any Criminal group against attack.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,
-3,440,"No","Tax Reform",0,0,0,0,"Play this card at any time to add 10MB to the treasury of any Government group.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,
-3,441,"No","Nuke Them From Orbit",0,0,0,0,"Play at any time to destroy any Artifact; place it in the discard pile. If an attack was in progress, that Artifact has no effect.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,
-3,442,"No","Emergency Powers",0,0,0,0,"Play this card at the beginning of your turn. You get no income (the Post Office must still pay), but you get TWO extra actions on this turn. Remember, no individual group except the UFOs may act more than once during a turn.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,
-3,443,"No","Media Campaign",0,0,0,0,"Play this card at any time to revive a group from the ""dead"" pile. It becomes uncontrolled. (If the Servants of Cthulhu destroyed the group, it still counts as a destroyed group as part of their secret goal. If they destroy it again, it counts again!)",0,1,0,0,0,0,0,0,0,0,0,0,0,0,
-3,444,"No","Telethon",0,0,0,0,"Play this card at any time to add 10MB to the treasury of any Conservative group.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,
-3,445,"No","May Day",0,0,0,0,"Play this card at any time to give all your Communist groups extra income equal to 2x their normal income. Or play this card at any time to add 10 to defend any Communist group against attack.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,
-3,446,"No","Celebrity Spokesman",0,0,0,0,"Play this card at any time to add 10MB to the treasury of any Liberal group.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,
-3,447,"No","Market Manipulation",0,0,0,0,"Play this card during your income phase to double all your groups' incomes, for that turn only. This card does not allow the I.R.S. to collect twice, or require the Post Office to pay twice.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,
-3,448,"No","Prohibition",0,0,0,0,"Play this card at any time to add 10MB to the treasury of any Criminal group.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,
-3,449,"No","Whispering Campaign",0,0,0,0,"You may attempt to destroy a single group with a power of 0. Roll attacking power vs. resistance, but a successful attack destroys the target. Playing this card is not an action, but the attack itself is an action.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,
-3,450,"No","Weapons of Mass Distraction",0,0,0,0,"Play this card at any time to add 10 to any attack against a Liberal group.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,
-3,451,"No","Bribery",0,0,0,0,"Play this card during your turn to automatically take control of any one uncontrolled group. Playing this card counts as an action.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,
-3,452,"No","Backlash",0,0,0,0,"Play this card at any time to add 10 to any attack against a Conservative group.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,
-3,453,"No","Swiss Bank Account",0,0,0,0,"Exchange this card, at any time, for 25MB to be paces in your Illuminati treasury.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,
-3,454,"No","Reorganization",0,0,0,0,"Play this card at any time except during an attack. You may reorganize your groups freely.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,
-3,455,"No","White Collar Crime",0,0,0,0,"Play this card at any time to reorganize all your money freely-- that is, any amount(s) may be moved between any groups. You also get an extra 5MB which may be placed anywhere.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,
-3,456,"No","Velvet Revolution",0,0,0,0,"Play this card at any time to add 10 to any attack against a Communist group.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,
-3,457,"No","Slush Fund",0,0,0,0,"Exchange this card, at any time, for 15MB to be placed in your Illuminati treasury.",0,1,0,0,1,0,0,1,0,0,0,0,0,0,
-1,500,"No","Perpetual Motion Machine",0,0,3,0,"On your turn, you may discard any card (group or special) and get an extra action. Discarded groups, and any groups they controlled, go to the uncontrolled area.",0,0,0,0,0,0,0,0,0,0,0,0,1,0,
-1,501,"No","Screaming Meme",0,0,4,0,"+4 to any attempt to neutralize any group.",0,0,0,0,0,0,0,0,0,0,0,0,1,0,
-1,502,"No","Flesh-Eating Bacteria",0,0,3,0,"+2 on any attempt to destroy any group.",0,0,0,0,0,0,0,0,0,0,0,0,1,0,
-1,503,"No","Midas Mill",0,0,5,3,"Gold to fuel the schemes of the Illuminati! Produces 3 income.",0,0,0,0,0,0,0,0,0,0,0,0,1,0,
-1,504,"No","Hitler's Brain",0,0,3,0,"When a group is destroyed by any player, you may immediately spend 1MB from your illuminati and move the group to the uncontrolled area. It still counts as a ""destroyed"" group for the player who destroyed it, and may be destroyed again.",0,0,1,0,0,0,0,0,0,0,0,0,1,0,
-2,505,"No","Necronomicon",0,0,4,0,"All Fanatic groups are treated as the same alignment for the purpose of any attack you make. Fanatic gets +4 to control or neutralize Fanatic but -4 to destroy it.",0,0,0,0,0,0,0,0,0,0,0,0,1,0,
-2,506,"No","Hubble Space Telescope",0,0,3,0,"It sees all. You may abolish the privelige on any attack by spending your next turn's Illuminati attack. You may not do this more than once per round unless you get more than one Illuminati attack per turn. Note that you still get two actions next turn . . . You just can’t use your Illuminati for one of them.",0,1,0,0,0,0,0,1,0,0,0,0,1,0,
-3,507,"No","Principia Discordia",0,0,3,0,"All your Weird groups with power of at least 1 get +2 power.",0,0,0,0,0,1,0,0,0,0,0,0,1,0,
-3,508,"No","Talisman of Ahrimanes",0,0,4,0,"On your turn only, you may pay 3MB from your Illuminati and move any uncontrolled group to the discard stack. It does not count as destroyed.",0,1,0,0,0,0,0,0,0,0,0,0,1,0,
-3,509,"No","Soulburner",0,0,5,0,"Any time a rival takes control of any of your Groups, you may immediately take the top discarded Special card.",0,0,0,0,0,0,0,0,0,0,0,0,1,0,
-3,510,"No","Spear of Longinus",0,0,3,0,"You have +4 on any attempt to control, neutralize, or destroy any Fanatic group.",0,0,0,0,0,0,0,0,0,0,0,0,1,0,
-3,511,"No","Crystal Skull",0,0,5,0,"Add 2 to the power (and transferrable power) of your Illuminati.",0,0,0,0,0,0,0,0,0,0,0,0,1,0,
-3,512,"No","Shroud of Turin",0,0,4,0,"All your groups have +2 defense against any attack to control.",0,0,0,0,0,0,1,0,0,0,0,0,1,0,
-3,513,"No","Blivit",0,0,4,0,"Once per turn, you may spend your Illuminati action to discard all unconrolled groups and draw an equal number of cards. Any Special cards you draw become yours. The groups that you draw become the new uncontrolled area.",0,0,0,0,0,0,0,0,0,0,0,0,1,0,
-3,514,"No","The Holy Grail",0,0,5,0,"Add 2 to the power (and transferrable power) of your Illuminati.",0,0,0,0,0,0,0,0,0,0,0,0,1,0,
-3,515,"No","Ark of the Covenant",0,0,5,0,"Draw one extra card each turn.",0,0,0,0,0,0,0,0,0,0,0,0,1,0,
+{"Volume":1,"ID":4,"Illuminati (1982)","The UFOs",8,8,0,8,"May participate in two attacks per turn.",1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Collect the most groups. (12)"}
+{"Volume":1,"ID":5,"Illuminati (1982)","The Servants of Cthulhu",7,7,0,8,"+2 on any attempt to destroy any group.",1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Collect the most Fanatic groups. (5)"}
+{"Volume":2,"ID":6,"Illuminati Deluxe","The Society of Assassins",7,7,0,7,"+4 on any attempt to neutralize any group.",1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Destroy the most groups. (8)"}
+{"Volume":2,"ID":7,"Illuminati: Y2K","Church of the SubGenius",9,9,0,8,"Gets 10MB from the bank for each of its groups when successfully attacked.",1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Choose a secret goal."}
+{"Volume":1,"ID":8,"Illuminati (1982)","The Discordian Society",8,8,0,9,"+4 on any attempt to control Weird groups; immune to Government or Straight attacks.",1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Collect the most Weird groups. (6)"}
+{"Volume":4,"ID":9,"Illuminati: 2012","The Communist Collective",8,8,0,9,"Turn over two cards at beginning of turn.",1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Collect the most Communist groups. (6)"}
+{"Volume":1,"ID":10,"Illuminati (1982)","The Bermuda Triangle",6,6,0,9,"May reorganize groups freely at end of turn.",1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Collect the most alignments. (11)"}
+{"Volume":2,"ID":11,"Illuminati: Y2K","The Shangri-La",6,6,0,8,"+6 on any attempt to control Peaceful groups; +4 defense against any attack to destroy.",1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Collect the most Peaceful groups. (6)"}
+{"Volume":4,"ID":12,"No","The Fae",6,4,5,0,"The Fae cannot be destroyed.",0,0,0,0,0,1,0,0,1,1,0,0,0,0,}
+{"Volume":1,"ID":13,"No","Extreme Sports",2,0,2,2,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":1,"ID":14,"No","Lawyers",4,4,7,4,,0,0,0,1,1,0,0,1,0,0,0,0,0,1,}
+{"Volume":1,"ID":17,"No","Private Launch Companies",4,1,3,4,,0,0,0,0,0,1,0,0,0,0,1,0,0,1,}
+{"Volume":4,"ID":18,"No","Internet Service Providers",4,1,4,6,"+4 on any attempt to control The Internet, Cable TV, Web Designers, or Bloggers.",0,0,0,0,0,1,1,0,0,0,0,0,0,1,}
+{"Volume":1,"ID":20,"No","Credit Cards",2,0,3,4,,0,0,0,0,1,0,0,0,0,0,0,0,0,1,}
+{"Volume":1,"ID":22,"No","FEMA",2,3,5,3,"When FEMA makes or aids an attack, that attack automatically fails on a roll of 9 or more.",0,0,0,1,0,0,0,1,0,0,0,0,0,0,}
+{"Volume":1,"ID":23,"No","Big Media",5,3,6,4,,0,0,0,1,0,1,0,0,1,0,0,1,0,1,}
+{"Volume":1,"ID":25,"No","Border Patrol",1,0,2,1,,0,0,1,0,0,0,0,1,0,0,0,0,0,0,}
+{"Volume":1,"ID":26,"No","State Lotteries",2,0,4,4,,0,0,0,1,0,0,0,1,0,0,0,0,0,0,}
+{"Volume":1,"ID":27,"No","Big Data",4,4,8,5,"May spend one action per turn to look at a face-down group.",0,0,0,0,0,1,0,1,0,0,0,0,0,1,}
+{"Volume":1,"ID":28,"No","California",5,4,8,5,,0,0,0,0,0,1,0,1,0,0,0,1,0,0,}
+{"Volume":1,"ID":30,"No","Empty Vee",3,0,4,4,,0,0,0,0,0,1,0,0,0,0,0,1,0,1,}
+{"Volume":1,"ID":32,"No","Antiwar Activists",2,0,1,1,,0,0,0,0,0,0,0,0,0,1,0,1,0,0,}
+{"Volume":1,"ID":33,"No","C.I.A.",4,4,6,2,,0,0,1,0,0,0,0,1,0,0,0,0,0,0,}
+{"Volume":1,"ID":34,"No","Red Cross",1,0,1,1,,0,0,0,0,0,0,0,0,0,1,0,1,0,0,}
+{"Volume":1,"ID":36,"No","Black Helicopters",0,2,3,0,"+2 on any attempt to neutralize another group.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":1,"ID":37,"No","School Boards",2,0,1,1,,0,0,0,0,1,0,0,1,0,0,1,0,0,0,}
+{"Volume":1,"ID":38,"No","Supreme Court",4,4,6,2,,0,0,0,0,0,0,0,1,0,1,0,1,0,0,}
+{"Volume":1,"ID":40,"No","Reptoids",3,2,6,4,,0,0,0,1,0,1,0,0,0,0,0,0,0,0,}
+{"Volume":1,"ID":41,"No","Diamond Mines",3,0,5,6,,0,0,1,1,0,0,1,0,0,0,0,0,0,1,}
+{"Volume":1,"ID":43,"No","El Niño",0,0,4,0,"+2 on any attempt to destroy another group.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":1,"ID":44,"No","Office Temps",0,0,2,1,"Spend 10MB from this group or your Illuminati, and get one extra action for that turn.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":1,"ID":45,"No","Comic Books",2,0,4,2,"If controlled by Discordians, this card produces +2 income.",0,0,1,0,0,1,0,0,1,1,1,0,0,1,}
+{"Volume":1,"ID":46,"No","Nigerian Scams",1,0,1,1,,0,0,1,1,0,0,0,0,0,0,0,0,0,1,}
+{"Volume":1,"ID":47,"No","Psychiatrists",1,0,3,3,,0,0,0,0,0,1,0,0,0,0,0,1,0,0,}
+{"Volume":1,"ID":48,"No","Universities",4,5,8,4,,0,0,0,0,0,0,0,0,0,1,0,0,0,0,}
+{"Volume":1,"ID":49,"Illuminati (1982)","Pointy-Hooded Racists",1,0,3,0,"Feel free to punch these guys.",0,0,1,0,0,1,1,0,0,0,1,0,0,0,}
+{"Volume":1,"ID":50,"No","Pale People in Black",0,0,2,1,"The Assassins get +2 income if they control this group.",0,0,0,0,0,1,0,0,0,0,0,1,0,0,}
+{"Volume":1,"ID":51,"No","Tobacco & Liquor Companies",3,0,4,4,,0,0,1,0,1,0,1,0,0,0,1,0,0,1,}
+{"Volume":1,"ID":52,"No","Fnord Motor Company",3,0,3,3,,0,0,0,0,1,0,0,0,1,1,0,1,0,1,}
+{"Volume":1,"ID":53,"No","Online Auctions",1,0,1,3,,0,0,0,0,1,0,0,0,0,1,0,0,0,1,}
+{"Volume":1,"ID":54,"No","Silicon Valley",3,0,5,6,,0,0,0,0,0,1,0,0,1,0,0,0,0,1,}
+{"Volume":1,"ID":55,"No","Libertarians",2,0,1,1,,0,0,0,0,0,1,1,0,0,0,1,0,0,0,}
+{"Volume":1,"ID":56,"No","Stem Cell Researchers",2,0,2,2,,0,0,0,0,1,0,0,0,0,1,0,1,0,0,}
+{"Volume":1,"ID":57,"No","Rosicrucians",3,2,7,1,"+6 on any attempt to control an Artifact.",0,0,0,0,0,1,0,0,0,1,0,0,0,0,}
+{"Volume":1,"ID":58,"No","Virtual Pets",0,0,4,2,"+2 on any attempt to control another group.",0,0,0,0,0,1,0,0,1,1,1,0,0,0,}
+{"Volume":1,"ID":59,"No","Low-Carb Diets",0,0,1,1,,0,0,0,0,1,0,0,0,0,0,1,0,0,0,}
+{"Volume":1,"ID":60,"No","Pave the Earth!",1,0,2,1,"Cthulhu may draw one extra card per turn if it controls this group.",0,0,1,1,0,0,0,0,0,0,1,0,0,0,}
+{"Volume":1,"ID":61,"No","Genetic Engineers",2,0,2,2,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,}
+{"Volume":1,"ID":62,"No","Coffee Shops",0,1,1,2,,0,0,0,0,0,0,0,0,0,1,1,1,0,0,}
+{"Volume":1,"ID":63,"No","Shock Jocks",1,1,4,2,"The Church of the SubGenius may draw one extra card per turn if it controls this group.",0,0,0,0,0,0,0,0,0,0,1,0,0,0,}
+{"Volume":1,"ID":64,"No","Dentists",1,0,2,2,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,}
+{"Volume":1,"ID":65,"No","Boy Sprouts",0,0,1,1,,0,0,0,0,1,0,0,0,0,1,0,0,0,0,}
+{"Volume":1,"ID":66,"No","Kommie Kids Klub",0,0,1,1,,0,0,0,0,0,1,0,0,1,1,0,0,0,0,}
+{"Volume":1,"ID":67,"No","Hackers",1,1,3,1,"+3 on any attempt to neutralize any group.",0,0,0,1,0,1,0,0,0,0,0,0,0,0,}
+{"Volume":1,"ID":68,"No","TSA",3,0,4,2,,0,0,0,0,0,1,1,1,0,0,0,0,0,0,}
+{"Volume":1,"ID":69,"No","Soft Drinks",1,0,3,3,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":1,"ID":70,"No","International Cocaine Smugglers",4,1,7,5,"+4 on any attempt to conrol Punk Rockers, Cycle Gangs, or Hollywood.",0,0,1,1,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":1,"ID":71,"No","Door-To-Door Salesmen",0,0,2,1,"The Church of the SubGenius gets +2 income if it controls this group.",0,0,0,0,1,0,0,0,0,0,0,0,0,0,}
+{"Volume":1,"ID":72,"No","New York",5,3,7,5,,0,0,0,0,0,0,0,1,0,0,0,1,0,0,}
+{"Volume":1,"ID":73,"No","E.P.A.",2,0,2,2,,0,0,0,0,0,0,0,1,0,0,0,1,0,0,}
+{"Volume":1,"ID":74,"No","The Great Pyramid",4,2,6,3,"Your Artifacts cannot be stolen, neutralized, or destroyed.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":1,"ID":75,"No","Euthanasia Advocates",0,0,1,1,"This group cannot be destroyed, but any attack to destroy its master gets a +2.",0,0,0,0,0,1,0,0,0,0,0,1,0,0,}
+{"Volume":1,"ID":76,"No","Open Gnoonix",0,1,1,1,,0,0,0,0,0,1,0,0,0,1,0,0,0,0,}
+{"Volume":1,"ID":77,"No","The Mafia",5,3,7,5,"+3 for direct control of any Criminal group.",0,0,1,1,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":1,"ID":78,"No","Fast Food Chains",2,0,2,3,,0,0,0,0,1,0,0,0,0,0,1,0,0,1,}
+{"Volume":1,"ID":79,"No","Survivalists",1,1,3,0,"+2 Resistance against attacks by Militia or Minutemen.",0,0,1,0,0,0,1,0,0,0,0,0,0,0,}
+{"Volume":1,"ID":80,"No","Dolphins",0,0,2,0,,0,0,0,0,0,0,0,0,0,1,0,0,0,0,}
+{"Volume":1,"ID":81,"No","Urban Gangs",1,0,2,1,,0,0,1,1,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":1,"ID":82,"No","OPEC",5,3,4,4,,0,0,0,1,1,0,1,0,0,0,0,0,0,0,}
+{"Volume":1,"ID":84,"No","Fort Knox",3,0,5,1,"Gets 1MB during the income phase of each player's turn.",0,0,0,0,0,0,0,1,0,0,0,0,0,0,}
+{"Volume":1,"ID":85,"No","Overnight Delivery Services",2,2,6,4,"Owner may make one extra money transfer each turn.",0,0,0,0,1,0,0,0,0,1,0,0,0,0,}
+{"Volume":1,"ID":86,"No","Federal Reserve",6,4,8,6,"When it transfers money, that money can go to any group in the same power structure.",0,0,0,0,0,0,0,1,0,0,0,0,0,0,}
+{"Volume":1,"ID":87,"No","W.I.T.C.H.",3,2,5,3,,0,0,1,0,0,1,0,0,0,0,1,0,0,0,}
+{"Volume":1,"ID":88,"No","Furries",0,0,3,2,,0,0,0,0,0,1,0,0,0,1,0,0,0,0,}
+{"Volume":1,"ID":89,"No","Military Academics",2,0,1,1,,0,0,0,0,1,0,0,1,0,0,1,0,0,0,}
+{"Volume":1,"ID":90,"No","Science Alarmists",1,2,3,1,,0,0,0,0,0,1,0,0,0,0,1,0,0,0,}
+{"Volume":1,"ID":91,"No","Actuaries",2,0,4,3,"On your turn, you may look at the amount of money on any one group except an Illuminati.",0,0,0,0,1,0,0,0,0,1,0,0,0,0,}
+{"Volume":1,"ID":92,"No","PETA",2,1,3,2,,0,0,0,0,0,0,0,0,0,1,0,1,0,0,}
+{"Volume":1,"ID":93,"No","Clone Arrangers",3,2,5,2,"+3 on any attempt to control any group.",0,0,1,0,0,1,0,0,1,0,0,0,0,0,}
+{"Volume":1,"ID":94,"No","Centers for Disease Control",3,2,5,2,"+5 on any attempt to destroy Bird Flu.",0,0,0,0,0,0,0,1,0,1,0,1,0,0,}
+{"Volume":1,"ID":95,"No","Multinational Oil Companies",6,0,6,8,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":1,"ID":96,"No","Frankenfoods",2,0,3,1,"This group takes on all the alignments of its master for all purposes, including victory conditions.",0,0,1,0,0,1,0,0,0,0,0,0,0,1,}
+{"Volume":1,"ID":98,"No","NASA",2,0,1,1,"+2 on any attempt to control Space Station.",0,0,0,0,0,0,0,1,0,1,0,0,0,0,}
+{"Volume":1,"ID":99,"No","Trekkies",1,1,4,2,"+1 Income if controlled by Hollywood or NASA.",0,0,0,0,0,1,0,0,0,0,1,1,0,0,}
+{"Volume":1,"ID":100,"No","Special Prosecutor",3,3,5,2,"+3 on any attempt to destroy another group. May make a priveleged attack on government groups at no cost.",0,0,0,0,0,0,0,1,0,0,1,0,0,0,}
+{"Volume":1,"ID":101,"No","Telephone Psychics",0,0,1,1,,0,0,0,1,0,0,0,0,0,1,0,0,0,0,}
+{"Volume":1,"ID":102,"No","CFL-AIO",3,0,2,2,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,}
+{"Volume":3,"ID":103,"No","Pranksters",1,1,1,0,,0,0,0,0,1,0,0,0,0,0,1,0,0,0,}
+{"Volume":3,"ID":104,"No","Renasissance Faires",0,0,1,1,,0,0,0,0,0,1,0,0,0,1,1,0,0,0,}
+{"Volume":1,"ID":105,"No","Tabloids",1,0,2,2,"+3 for direct control of Convenience Stores.",0,0,0,0,0,1,1,0,0,0,0,0,0,0,}
+{"Volume":3,"ID":106,"No","Starbucks",2,1,6,4,"+4 for direct control of Baristas.",0,0,0,0,0,0,0,0,0,0,1,0,0,0,}
+{"Volume":1,"ID":107,"No","The United Nations",5,3,4,2,,0,0,0,0,0,0,0,1,0,1,0,1,0,0,}
+{"Volume":1,"ID":108,"No","LSD",0,0,1,0,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,}
+{"Volume":1,"ID":109,"No","Evil Geniuses For A Better Tomorrow",2,2,4,2,"+4 on any attempt to control, neutralize, or destroy the Orbital Mind Control Lasers.",0,0,1,0,0,1,0,0,0,0,0,0,0,0,}
+{"Volume":3,"ID":110,"No","Bored Games",0,0,1,1,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":1,"ID":112,"No","Cable TV",2,1,4,3,,0,0,1,0,1,1,0,0,0,1,0,0,0,1,}
+{"Volume":3,"ID":113,"No","Sunsets",0,0,1,0,,0,0,0,0,0,0,0,0,0,1,1,0,0,0,}
+{"Volume":1,"ID":114,"No","Space Station",2,1,3,2,,0,0,0,0,0,0,0,1,0,0,0,1,0,0,}
+{"Volume":3,"ID":115,"No","Hot Air Balloons",0,0,1,1,,0,0,0,0,0,0,0,0,0,1,0,0,0,0,}
+{"Volume":1,"ID":116,"No","Public Art",0,0,2,1,"Bavarian Illuminati or Discordian Society gets +2 income if it controls this group.",0,0,0,0,0,1,0,0,0,0,0,1,0,0,}
+{"Volume":1,"ID":117,"No","LARPers",0,0,1,0,,0,0,0,0,0,1,0,0,0,0,1,0,0,0,}
+{"Volume":1,"ID":118,"No","Gun Lobby",2,2,4,2,,0,0,1,0,0,0,1,0,0,0,1,0,0,1,}
+{"Volume":3,"ID":119,"No","Underwater Basket Weavers",0,0,1,0,,0,0,0,0,0,1,0,0,0,1,0,1,0,0,}
+{"Volume":3,"ID":120,"No","Inter-Dimensional Time Police",3,2,5,3,,0,0,1,0,1,0,0,0,0,0,0,0,0,0,}
+{"Volume":2,"ID":121,"No","BATF",3,1,3,2,,0,0,1,0,0,1,1,1,0,0,0,0,0,0,}
+{"Volume":2,"ID":122,"No","Junk Mail",1,0,2,2,"+4 on any attempt to control the Post Office.",0,0,0,1,0,1,0,0,0,0,0,0,0,0,}
+{"Volume":3,"ID":123,"No","Lumberjacks",1,0,1,2,,0,0,0,0,1,0,1,0,0,0,0,0,0,0,}
+{"Volume":2,"ID":124,"No","Liberation Theology",3,2,5,3,,0,0,1,0,0,0,1,0,0,0,1,0,0,0,}
+{"Volume":2,"ID":125,"No","Orbital Mind Control Lasers",3,2,4,0,"On their turn, owner can add, remove, or reverse an alignment of any one other group in play; change lasts for that turn only.",0,0,1,0,0,1,0,0,0,0,0,0,0,0,}
+{"Volume":2,"ID":126,"No","Convenience Stores",2,0,2,2,,0,0,0,0,1,0,0,0,0,0,0,0,0,1,}
+{"Volume":2,"ID":127,"No","Science Fiction Fans",1,1,4,2,"+2 on any attempt to control Weird groups by any card in the owner's power structure.",0,0,0,0,0,1,0,0,0,0,1,1,0,0,}
+{"Volume":4,"ID":128,"No","The Internet",4,4,3,0,"The Internet earns 2MB for every group it controls.",0,0,0,0,0,1,0,0,1,1,0,0,0,0,}
+{"Volume":2,"ID":129,"No","Church of Violentology",3,0,3,3,,0,0,1,1,0,1,0,0,0,0,1,0,0,1,}
+{"Volume":2,"ID":130,"No","Gay Activists",2,1,2,2,,0,0,0,0,0,0,0,0,0,1,1,1,0,0,}
+{"Volume":2,"ID":131,"No","Fraternal Orders",1,0,2,2,,0,0,0,0,1,0,1,0,0,1,0,0,0,0,}
+{"Volume":2,"ID":132,"No","Druids",1,0,2,1,,0,0,0,0,0,1,0,0,0,1,0,1,0,0,}
+{"Volume":2,"ID":133,"No","Home Schoolers",1,0,1,1,,0,0,0,0,1,0,0,0,0,0,0,1,0,0,}
+{"Volume":3,"ID":134,"No","Patent and Trademark Office",2,2,6,2,"+4 on any attempt to control an Artifact.",0,0,0,0,1,0,1,1,0,0,0,0,0,0,}
+{"Volume":2,"ID":135,"No","Crop Circles",0,0,2,0,"UFOs may draw one extra card per turn if it controls this group.",0,0,0,0,0,1,0,0,0,1,0,0,0,0,}
+{"Volume":2,"ID":136,"No","Health Food Stores",1,0,4,2,"+2 on any attempt to control and Straight group.",0,0,0,0,0,1,0,0,0,1,1,1,0,1,}
+{"Volume":2,"ID":137,"No","Baristas",1,2,4,1,"+4 on any attack against Coffee Shops.",0,0,0,0,1,1,0,0,1,0,0,1,0,1,}
+{"Volume":2,"ID":138,"No","Cattle Mutilators",1,0,2,1,"The UFOs may draw one extra card per turn if they control this group.",0,0,1,0,0,1,0,0,0,0,0,0,0,0,}
+{"Volume":2,"ID":139,"No","Warehouse 23",0,4,7,4,,0,0,0,0,0,1,0,1,0,0,0,0,0,0,}
+{"Volume":2,"ID":140,"No","Texas",5,2,5,4,,0,0,0,0,0,0,1,1,0,0,0,0,0,0,}
+{"Volume":2,"ID":141,"No","Weathermen",1,0,2,1,"The Bermuda Triangle may draw one extra card per turn if it controls this group.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":2,"ID":142,"No","Voice Mail",0,2,2,0,"Nigerian Scams gets a +1 on any attempt to control Voice Mail.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":2,"ID":143,"No","American Autoduel Association",1,0,1,1,,0,0,1,0,0,1,0,0,0,0,0,0,0,0,}
+{"Volume":2,"ID":144,"No","Minutemen",1,0,2,1,"No Government group can control, or aid in an attempt to control, the Minutemen.",0,0,1,0,0,0,1,0,0,0,0,0,0,0,}
+{"Volume":2,"ID":145,"No","NATO",6,1,5,3,"+3 on any attempt to destroy any Communist group.",0,0,1,0,0,1,1,1,0,0,0,0,0,0,}
+{"Volume":2,"ID":146,"No","Roadside Exhibits",0,0,1,1,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,}
+{"Volume":2,"ID":147,"No","Paranoids",0,1,6,0,"All your groups have +2 to their defense against any attack.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":2,"ID":148,"No","Gamers",1,0,1,1,,0,0,0,0,0,1,0,0,0,0,1,0,0,0,}
+{"Volume":2,"ID":149,"No","L-7 Society",1,0,2,1,"+4 for direct control, neutralization, or destruction of Orbital Mind Control Lasers.",0,0,0,0,0,1,0,0,1,0,0,0,0,0,}
+{"Volume":2,"ID":150,"No","Moonies",1,0,2,2,,0,0,0,0,0,1,0,0,0,1,0,0,0,0,}
+{"Volume":2,"ID":151,"No","Local Police Departments",2,0,1,1,"The FBI has a +2 advantage to control Local Police Departments.",0,0,0,0,1,0,1,1,0,0,0,0,0,0,}
+{"Volume":2,"ID":152,"No","Invasive Species",0,0,2,1,,0,0,1,0,0,1,0,0,1,0,0,0,0,0,}
+{"Volume":2,"ID":153,"No","Reality Shows",1,0,2,2,,0,0,0,0,0,1,1,0,0,0,0,0,0,0,}
+{"Volume":2,"ID":154,"No","Oxygen Bars",1,0,2,2,"+2 on any attempt to control Hipsters.",0,0,0,0,1,0,0,0,0,0,0,0,0,0,}
+{"Volume":4,"ID":155,"No","Web Designers",2,0,3,2,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":3,"ID":156,"No","Giant Space Worms",5,0,3,0,,0,0,1,0,0,1,0,0,0,0,0,0,0,0,}
+{"Volume":3,"ID":157,"No","Voodoo Priests",2,0,3,0,,0,0,0,1,0,0,0,0,0,0,1,0,0,0,}
+{"Volume":2,"ID":158,"No","Embedded Media",2,2,3,1,"Treat this group as Conservative if it attempts to attack a Conservative group.",0,0,1,0,0,0,0,0,0,0,0,1,0,0,}
+{"Volume":3,"ID":159,"No","Spaghetti Westerns",2,0,1,2,,0,0,1,0,0,1,1,0,0,0,0,0,0,0,}
+{"Volume":4,"ID":160,"No","Pizzerias",2,1,1,3,"A family business since 1807. Fnord.",0,0,0,0,0,1,0,0,0,1,1,0,0,1,}
+{"Volume":2,"ID":161,"No","Otaku",1,0,2,2,,0,0,0,0,0,1,0,0,0,1,1,0,0,0,}
+{"Volume":2,"ID":162,"No","Copy Shops",1,0,1,1,,0,0,0,0,0,0,0,0,0,1,0,0,0,0,}
+{"Volume":2,"ID":163,"No","Neo-Classical Idealism",3,3,2,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":2,"ID":164,"No","Paparazzi",0,0,2,1,"+2 on any attempt to destroy another group.",0,0,0,1,0,0,0,0,0,0,1,0,0,0,}
+{"Volume":2,"ID":165,"No","Feminists",2,0,3,1,"+3 on any attempt to control any Liberal group.",0,0,1,0,0,0,0,0,0,0,0,1,0,0,}
+{"Volume":2,"ID":166,"No","Post Office",4,3,2,0,,0,0,0,0,1,0,0,1,0,0,0,0,0,0,}
+{"Volume":2,"ID":167,"No","Internet Memes",0,2,1,1,,0,0,0,0,1,1,1,0,1,1,1,1,0,0,}
+{"Volume":2,"ID":168,"No","Chinese Campaign Donors",3,1,4,3,"Treat this group as Government when it attempts to control a Government group.",0,0,0,0,0,0,0,0,1,0,0,0,0,0,}
+{"Volume":2,"ID":169,"No","Video Stores",1,0,2,2,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":2,"ID":170,"No","Elvis Impersonators",1,0,2,1,"Discordia may draw one extra card per turn if it controls this group.",0,0,0,0,0,1,0,0,0,1,0,0,0,0,}
+{"Volume":2,"ID":171,"No","Morticians",0,0,1,1,,0,0,0,0,1,0,0,0,0,1,0,0,0,0,}
+{"Volume":2,"ID":172,"No","Kudzu Planters",1,0,3,1,,0,0,0,0,0,1,0,0,1,0,0,0,0,0,}
+{"Volume":2,"ID":173,"No","Microstuff",6,0,6,7,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,}
+{"Volume":2,"ID":174,"No","Ninety Minutes",2,0,2,2,"Ninety Minutes has +10 resistance to Straight or Government groups.",0,0,0,0,0,0,0,0,0,0,0,1,0,0,}
+{"Volume":3,"ID":176,"No","Native American Casinos",2,2,6,3,"+1MB added to your Illuminati's income.",0,0,0,0,1,0,1,0,0,1,0,0,0,0,}
+{"Volume":3,"ID":177,"No","Celebrity Rehab Clinics",2,0,4,2,,0,0,0,0,1,0,0,0,0,0,1,0,0,0,}
+{"Volume":2,"ID":178,"No","Deprogrammers",1,0,4,2,"+4 to any attempt to destroy a Weird or Fanatic group (+8 if it's both). Discordia's puppets are not immune to direct attacks from the Deprogrammers.",0,0,1,0,0,0,0,0,0,0,1,0,0,0,}
+{"Volume":2,"ID":179,"No","Bus Drivers",1,0,1,1,,0,0,0,0,0,1,0,1,0,0,0,0,0,0,}
+{"Volume":2,"ID":180,"No","All-Martz",5,0,5,5,,0,0,0,0,1,0,0,0,0,0,0,0,0,1,}
+{"Volume":2,"ID":181,"No","Cycle Gangs",1,0,3,1,"+2 on any attempt to destroy any group.",0,0,1,1,0,1,1,0,0,0,0,0,0,0,}
+{"Volume":2,"ID":182,"No","I.R.S.",4,1,5,0,"Owning player may tax each opponent 2MB on his own income phase. Tax may come from any group. If a player has no money, he owes no tax.",0,0,0,1,1,0,0,1,0,0,0,0,0,0,}
+{"Volume":3,"ID":183,"No","Hipsters",1,2,5,3,,0,0,0,0,0,1,0,0,0,0,1,1,0,0,}
+{"Volume":3,"ID":184,"No","Grim Reapers",0,0,1,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":3,"ID":185,"No","Screen Savers",0,1,1,0,,0,0,0,0,0,1,0,0,0,1,0,0,0,0,}
+{"Volume":3,"ID":186,"No","Ultramegahyperplexes",1,0,6,5,"+5 for direct control of Hollywood, or vice versa.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":3,"ID":187,"No","Arms Smugglers",2,0,5,4,"Cthulhu gets +2 income if it controls this group.",0,0,1,1,0,0,1,0,0,0,0,0,0,0,}
+{"Volume":4,"ID":188,"No","Sushi Bars",1,0,1,1,,0,0,0,0,1,0,0,0,0,1,0,0,0,0,}
+{"Volume":3,"ID":189,"No","Yakuza",5,3,8,4,"+2 on any attempt to control any Criminal group.",0,0,1,1,0,0,1,0,0,0,0,0,0,0,}
+{"Volume":3,"ID":190,"No","Defense Contractors",4,0,4,4,,0,0,1,0,1,0,1,0,0,0,0,0,0,0,}
+{"Volume":3,"ID":191,"No","Animal Testing Labs",1,0,2,2,,0,0,1,0,0,1,0,0,0,0,0,0,0,0,}
+{"Volume":3,"ID":192,"No","Center for Weird Studies",1,1,3,2,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,}
+{"Volume":3,"ID":193,"No","Enormous Toy Stores",1,0,3,3,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,}
+{"Volume":3,"ID":194,"No","Offshore Call Centers",1,2,4,3,,0,0,0,0,1,0,0,0,0,1,0,0,0,0,}
+{"Volume":3,"ID":195,"No","Alien Abductors",2,0,4,1,"The UFOs get +2 income if they control this group.",0,0,1,0,0,1,0,0,0,0,0,0,0,0,}
+{"Volume":3,"ID":196,"No","Vampires",0,2,3,0,"The Assassins may draw one extra card per turn if they control this group.",0,0,1,0,0,1,0,0,0,0,0,0,0,0,}
+{"Volume":3,"ID":197,"No","Las Vegas",4,0,5,7,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":3,"ID":198,"No","Day Care Centers",1,0,1,1,,0,0,0,0,0,0,0,0,0,1,0,0,0,0,}
+{"Volume":3,"ID":199,"No","Pod People",1,0,1,1,,0,0,0,0,0,0,0,0,1,1,1,1,0,0,}
+{"Volume":3,"ID":200,"No","High Fashion",1,0,6,4,"Church of the SubGenius or Discordia gets +2 income if it controls this group.",0,0,0,0,1,0,0,0,0,1,0,0,0,0,}
+{"Volume":3,"ID":201,"No","Webcams",2,0,3,3,"If Webcams and Bloggers are in the same power structure, each gets +1 Income.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":3,"ID":202,"No","Saturday Morning Cartoons",1,0,3,3,,0,0,1,0,0,0,0,0,1,0,1,0,0,0,}
+{"Volume":3,"ID":203,"No","Museums",1,0,3,3,,0,0,0,0,0,0,0,0,0,1,0,0,0,0,}
+{"Volume":3,"ID":204,"No","Semiconscious Liberation Army",0,4,6,0,"+1 on any attempt to destroy any group.",0,0,1,0,0,0,0,0,0,0,0,1,0,0,}
+{"Volume":3,"ID":205,"No","Fiendish Fluoridators",1,0,1,1,,0,0,0,0,0,1,0,0,1,0,1,0,0,0,}
+{"Volume":3,"ID":206,"No","Recording Industry",4,0,4,4,,0,0,0,0,1,1,1,0,0,0,0,1,0,1,}
+{"Volume":3,"ID":207,"No","Pentagon",6,0,5,4,,0,0,1,0,1,0,0,1,0,0,0,0,0,0,}
+{"Volume":3,"ID":208,"No","Moral Minority",2,0,2,2,,0,0,0,0,1,0,1,0,0,0,1,0,0,0,}
+{"Volume":3,"ID":209,"No","Zero Tolerance",0,1,1,0,"+3 to any attempt to control School Boards or TSA.",0,0,0,0,0,0,1,0,0,0,1,0,0,0,}
+{"Volume":3,"ID":210,"No","Loan Sharks",2,0,3,3,,0,0,0,1,0,0,1,0,0,0,0,0,0,0,}
+{"Volume":3,"ID":211,"No","The Men In Black",3,2,6,4,,0,0,0,0,0,1,0,1,0,0,0,0,0,0,}
+{"Volume":3,"ID":212,"No","Recyclers",2,0,3,3,"Pay 5MB from this group to draw an extra card on your turn. This is not an action.",0,0,0,0,0,0,0,0,0,0,1,1,0,0,}
+{"Volume":3,"ID":213,"No","Theme Parks",1,0,3,3,,0,0,0,0,0,1,0,0,0,0,1,0,0,1,}
+{"Volume":3,"ID":214,"No","Animal Flu",1,1,4,0,"+2 on any attempt to destroy any group.",0,0,0,0,0,0,0,1,0,0,0,0,0,0,}
+{"Volume":3,"ID":215,"No","Soap Operas",0,0,2,3,,0,0,0,0,0,1,0,0,0,0,1,0,0,0,}
+{"Volume":3,"ID":216,"No","Savings and Loans",2,0,3,4,,0,0,0,1,1,0,0,0,0,0,0,0,0,1,}
+{"Volume":3,"ID":217,"No","Spammers",0,0,3,3,"The Network gets +2 income if it controls this group.",0,0,0,1,1,0,0,0,0,0,0,0,0,1,}
+{"Volume":3,"ID":218,"No","Punk Rockers",1,0,3,1,,0,0,1,0,0,1,0,0,0,0,0,1,0,0,}
+{"Volume":3,"ID":219,"No","Congressional Wives",3,0,3,3,,0,0,0,0,1,0,1,0,0,0,0,0,0,0,}
+{"Volume":3,"ID":220,"No","Exterminators",1,0,3,2,"+2 on any attempt to neutralize another group.",0,0,1,0,0,1,0,0,0,0,0,0,0,0,}
+{"Volume":3,"ID":221,"No","Airlines",4,0,4,3,"Bermuda gets +2 income if it controls this group.",0,0,0,0,1,0,0,0,0,0,0,0,0,1,}
+{"Volume":3,"ID":222,"No","Democrats",4,0,3,3,,0,0,0,0,0,0,0,1,0,0,0,1,0,1,}
+{"Volume":3,"ID":223,"No","Video Games",3,0,3,4,"Microstuff has a +1 for direct control of this group.",0,0,0,0,0,0,0,0,0,0,1,0,0,0,}
+{"Volume":3,"ID":224,"No","Anti-Nuclear Activists",2,0,2,1,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,}
+{"Volume":3,"ID":225,"No","Society for Creative Anarchism",1,0,2,1,,0,0,1,0,0,1,0,0,0,0,0,0,0,0,}
+{"Volume":3,"ID":226,"No","Parent/Teacher Agglomeration",1,0,1,1,,0,0,0,0,1,0,1,0,0,1,0,0,0,0,}
+{"Volume":3,"ID":227,"No","The Phone Company",4,2,5,3,,0,0,0,0,1,0,0,0,0,1,0,0,0,1,}
+{"Volume":3,"ID":228,"No","Flat Earthers",1,0,1,1,,0,0,0,0,0,1,1,0,0,0,0,0,0,0,}
+{"Volume":3,"ID":229,"No","Church of Elvis",1,0,3,2,"+5 for direct control of Elvis Impersonators, or vice versa.",0,0,0,0,0,1,1,0,0,0,0,0,0,0,}
+{"Volume":3,"ID":230,"No","Green Party",4,3,6,3,,0,0,0,0,0,0,0,1,0,0,1,1,0,0,}
+{"Volume":3,"ID":231,"No","Robot Sea Monsters",2,0,2,2,,0,0,1,0,0,1,0,0,0,0,0,0,0,0,}
+{"Volume":3,"ID":233,"No","Eco-Guerrillas",2,0,2,2,,0,0,1,0,0,0,0,0,0,0,1,1,0,0,}
+{"Volume":3,"ID":234,"No","S.M.O.F.",1,0,2,0,"+5 for direct control of Science Fiction Fnas. +2 for direct control of Trekkies.",0,0,0,0,0,1,0,0,0,0,0,0,0,0,}
+{"Volume":3,"ID":235,"No","Girlie Magazines",2,0,2,3,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,}
+{"Volume":3,"ID":236,"No","Big Pharma",4,2,8,6,,0,0,0,1,0,0,1,1,0,0,0,0,0,1,}
+{"Volume":4,"ID":237,"No","Weed Stores",1,0,5,4,,0,0,0,0,1,0,0,0,1,1,1,1,0,1,}
+{"Volume":3,"ID":238,"No","F.C.C.",4,0,3,3,"+2 on any attempt to control Cable TV, Recording Industry, or Shock Jocks.",0,0,0,0,1,0,1,1,0,0,0,0,0,0,}
+{"Volume":3,"ID":239,"No","TV Preachers",2,0,3,3,"+3 for direct control of the Moral Minority.",0,0,0,0,1,0,1,0,0,0,1,0,0,0,}
+{"Volume":3,"ID":240,"No","Nutrition Nazis",1,0,2,1,"+5 on any attempt to destroy Convenience Stores, Fast Food Chains, or Health Food Stores.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":3,"ID":241,"No","Intelligent Design",3,0,3,3,"+4 on any attempt to control School Boards.",0,0,0,0,0,0,1,0,0,0,1,0,0,0,}
+{"Volume":3,"ID":242,"No","Professional Sports",2,0,3,4,,0,0,1,1,1,0,1,0,0,0,1,1,0,1,}
+{"Volume":3,"ID":243,"No","Kiddie TV",1,1,3,2,,0,0,0,0,0,1,0,0,1,1,1,0,0,1,}
+{"Volume":3,"ID":244,"No","Barcodes",0,2,3,1,"The Gnomes of Zurich may draw one extra card per turn if it controls this group.",0,0,0,0,1,0,0,0,1,0,0,0,0,0,}
+{"Volume":3,"ID":245,"No","Cell Phones",2,1,3,3,"+4 on any attack on the Phone Company, and vice versa.",0,0,0,0,1,0,0,0,0,0,1,0,0,1,}
+{"Volume":3,"ID":246,"No","Republicans",4,0,4,4,,0,0,1,1,0,0,1,1,0,0,1,0,0,1,}
+{"Volume":3,"ID":247,"No","Goldfish Fanciers",1,0,1,1,,0,0,0,0,0,0,0,0,0,1,1,0,0,0,}
+{"Volume":3,"ID":248,"No","Wall Street",6,0,6,5,,0,0,0,1,1,1,1,0,0,0,0,1,0,1,}
+{"Volume":3,"ID":249,"No","Madison Avenue",3,3,8,4,"+5 on any attempt to control Big Media or Empty Vee.",0,0,0,0,0,0,0,0,0,0,1,0,0,1,}
+{"Volume":3,"ID":250,"No","Offshore Banks",3,2,8,5,"Owner may make one extra money transfer each turn.",0,0,0,1,0,1,1,0,0,0,0,0,0,1,}
+{"Volume":3,"ID":251,"No","Pollsters",2,2,4,2,,0,0,0,0,0,0,0,0,0,0,1,0,0,0,}
+{"Volume":3,"ID":252,"No","Yuppies",2,1,5,4,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,}
+{"Volume":3,"ID":253,"No","Bobbleheads",0,0,1,1,,0,0,0,0,0,0,0,0,0,0,1,0,0,0,}
+{"Volume":3,"ID":254,"No","Hollywood",5,0,5,5,,0,0,0,0,0,1,1,0,1,0,0,1,0,0,}
+{"Volume":3,"ID":255,"No","Chain Letters",1,1,3,2,,0,0,0,1,0,0,1,0,0,0,0,0,0,0,}
+{"Volume":3,"ID":256,"No","Christmas",2,0,5,5,,0,0,0,0,1,0,0,0,0,1,1,0,0,1,}
+{"Volume":3,"ID":257,"No","Secret Service",4,0,4,0,,0,0,0,0,1,0,0,1,0,0,0,0,0,0,}
+{"Volume":3,"ID":258,"No","Nephews of God",2,0,2,2,,0,0,0,0,0,0,1,0,0,0,1,0,0,0,}
+{"Volume":3,"ID":259,"No","Phone Phreaks",0,1,2,1,"+3 on any attempt to control, neutralize, or destroy the Phone Company.",0,0,0,1,0,0,0,0,0,0,0,1,0,0,}
+{"Volume":3,"ID":260,"No","International Communist Party",4,0,6,4,"+3 on any attempt to control any Communist group.",0,0,0,0,0,0,0,1,1,0,0,0,0,0,}
+{"Volume":3,"ID":261,"No","Computer Dating Services",0,0,3,2,"The Network may draw one extra card per turn if it controls this group.",0,0,0,0,0,0,0,0,0,1,0,0,0,0,}
+{"Volume":3,"ID":262,"No","Underground Newspapers",1,1,2,1,,0,0,1,0,0,1,0,0,1,0,0,1,0,0,}
+{"Volume":3,"ID":263,"No","Militia",2,0,2,2,"The Libertarians have +2 to control this group.",0,0,1,0,0,0,1,0,0,0,0,0,0,0,}
+{"Volume":3,"ID":264,"No","KGB",5,2,7,4,"+2 on any attempt to destroy any group.",0,0,1,0,0,0,0,0,1,0,0,0,0,0,}
+{"Volume":3,"ID":265,"No","Intellectuals",1,0,3,1,,0,0,0,0,0,0,0,0,0,1,0,1,0,0,}
+{"Volume":3,"ID":266,"No","Bloggers",2,2,4,2,"The group that controls Bloggers gets +10 to defend itself against any attack.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":3,"ID":267,"No","Conspiracy Theorists",0,0,4,3,"The Bavarian Illuminati may draw one extra card per turn if it controls this group.",0,0,0,0,0,1,0,0,0,0,1,0,0,0,}
+{"Volume":3,"ID":268,"No","The Ghoul Channel",1,0,2,2,,0,0,1,0,0,1,0,0,0,0,0,1,0,0,}
+{"Volume":3,"ID":269,"No","Nanotech Companies",2,0,4,4,"Silicon Valley has a +2 for direct control of this group.",0,0,0,0,0,1,0,0,0,0,0,0,0,1,}
+{"Volume":3,"ID":270,"No","Homeland Security",4,2,5,3,,0,0,1,0,0,0,1,1,0,0,1,0,0,0,}
+{"Volume":3,"ID":271,"No","South American Nazis",3,0,4,2,,0,0,1,0,0,1,1,0,0,0,0,0,0,0,}
+{"Volume":3,"ID":272,"No","Chemtrails",0,3,5,1,"Once per turn, owner can remove an alignment of any other group in play; change lasts for that turn only.",0,0,1,0,0,1,0,1,0,0,0,0,0,0,}
+{"Volume":4,"ID":273,"No","Whiteboy Rappers",1,1,1,3,,0,0,0,1,1,0,1,0,0,0,0,0,0,0,}
+{"Volume":4,"ID":274,"No","F.D.A.",4,0,3,3,"+4 to any attack against Tobacco & Liquor Companies, Weed Stores, or Frankenfoods.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":4,"ID":275,"No","Billionaires",1,0,4,10,"+4 to any attempt to control Private Launch Companies.",0,0,0,1,0,1,1,0,0,0,0,1,0,1,}
+{"Volume":4,"ID":276,"No","Non-Fungible Tokens",0,0,1,0,"Income is equal to the roll of one die.",0,0,0,0,1,0,0,0,0,0,1,0,0,0,}
+{"Volume":4,"ID":277,"No","Bit-o-Currency",0,0,3,0,"Income equal to the roll of two dice per turn.",0,0,0,1,0,1,0,0,0,0,1,0,0,0,}
+{"Volume":4,"ID":278,"No","Bobcasts",1,1,1,3,"+4 on any attempt to control Hipsters.",0,0,0,0,0,0,0,0,0,0,1,0,0,0,}
+{"Volume":1,"ID":279,"No","F.B.I.",4,3,4,2,,0,0,0,0,1,0,0,1,0,0,0,0,0,0,}
+{"Volume":4,"ID":282,"No","Baphomet Babes",2,0,2,3,"Pagans rejoice! +4 to any attmept to control Druids.",0,0,0,0,0,1,0,0,0,0,1,0,0,0,}
+{"Volume":4,"ID":283,"No","Lucifer X. Satan, CEO",5,3,7,8,"All cards attached to Lucifer X. Satan, CEO get +3 to defend against any attack.",0,0,1,1,0,1,0,0,0,0,0,0,0,1,}
+{"Volume":4,"ID":284,"No","Great Cthulhu",5,0,7,0,,0,0,1,0,0,1,0,0,1,0,1,0,0,0,}
+{"Volume":1,"ID":400,"No","Gremlins",0,0,0,0,"Play at the beginning of any other player's turn, before he takes any actions. That player loses one action for the turn (so, unless he plays a card of his own, he gets only one action).",0,1,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":1,"ID":401,"No","Assassination",0,0,0,0,"Play this card immediately after the dice are rolled on any attempt (by any player) to destroy, control, neutralize. That roll is immediately changed, retroactively, to a 2.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":1,"ID":402,"No","Red Scare",0,0,0,0,"Play this card at any time to give all of your Conservative groups extra income equal to their normal income. Or play this card at any time to add 10 to defend any Conservative group against attack.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":1,"ID":403,"No","Nationalization",0,0,0,0,"Play this card at any time to give all of your Government groups extra income equal to their normal income. Or play this card at any time to add 10 to defend any Governemtn group against attack.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":1,"ID":404,"No","Murphy's Law",0,0,0,0,"Play this card immediately after the dice are rolled on any attempt (by any player) to destroy, control, or neutralize. That roll is immediately changed, retroactively, to a 12.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":1,"ID":405,"No","Secrets Man Was Not Meant to Know",0,0,0,0,"Play this card when any other special card is played, for ANY purpose. That card is immediately neutralized; it has no effect. Both cards are discarded.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":1,"ID":406,"No","Family Values",0,0,0,0,"Play this card at any time to give all of your Straight groups extra income equal to their normal income. Or play this card at any time to add 10 to defend any Straight group against attack.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":1,"ID":407,"No","Nonviolent Resistance",0,0,0,0,"Play this card at any time to add 10 to any attack against a Violent group.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":1,"ID":408,"No","Charismatic Leader",0,0,0,0,"Play this card at any time to add 10MB to the treasury of any Fanatic group.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":1,"ID":409,"No","Apathy",0,0,0,0,"Play this card during an attack. Except for the Illuminati themselves, no group may use its transferable power during this attack; any non-Illuminati uses of transferable power already announced do not count. Players who want to add more money to the attack, or use cards, may do so.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":1,"ID":410,"No","Flower Power",0,0,0,0,"Play this card at any time to give all of your Peaceful groups extra income equal to twice their normal income. Or play this card at any time to add 10 to defend any Peaceful group against attack.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":1,"ID":411,"No","Time Warp",0,0,0,0,"Play this card during your turn to allow you one extra action on that turn. Remember, no individual group except the UFOs may act more than once during one turn.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":1,"ID":412,"No","Dollars for Decency",0,0,0,0,"Play this card at any time to add 10MB to the treasury of any Straight group.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":1,"ID":413,"No","Computer Espionage",0,0,0,0,"Play this card at any time to either count the money on any group card or examine all of one player's special cards.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":1,"ID":414,"No","Senate Investigating Committee",0,0,0,0,"Play this card at the beginning of any other player's turn. The player loses his turn completely.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":1,"ID":415,"No","Deep Agent",0,0,0,0,"Play this card after privilege has been invoked. The privilege is totally abolished. That attack cannot be made privileged.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":1,"ID":416,"No","Riot",0,0,0,0,"Play this card at any time to give all of your Violent groups extra income equal to their nroaml income. Or play this card at any time to add 10 to defend any Violent group against attack.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":1,"ID":417,"No","Interference",0,0,0,0,"You may interfere with one privileged attack. No other players may interfere.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":1,"ID":418,"No","All Your Base",0,0,0,0,"Play this card at any time to add 10MB to the treasury of any Weird group.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":2,"ID":419,"No","Political Correctness",0,0,0,0,"Play this card at any time to give all your Liberal groups extra income equal to their normal income. Or play this card at any time to add 10 to defend any Liberal group against attack.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":2,"ID":420,"No","Bailout",0,0,0,0,"Play this card at any time that is NOT your turn. Each of your groups collects income. Exceptions: the Post Office does not pay, and the IRS does not tax.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":2,"ID":421,"No","Hidden Connection",0,0,0,0,"Play this card at any time that you acquire or move a group. You may place the group on a side of another card where there is no arrow. If the puppet group is moved again, the ""virtual"" arrow on the master is lost.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":2,"ID":422,"No","Full Moon",0,0,0,0,"Play this card at any time to give all of your Fanatic groups extra income equal to their normal income. Or play this card at any time to add 10 to defend any Fanatic group against attack.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":2,"ID":423,"No","Freaking the Mundanes",0,0,0,0,"Play this card at any time to give all of your Weird groups extra income equal to 2x their normal income. Or play this card at any time to add 10 to defend any Weird group against attack.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":2,"ID":424,"No","Cat Burglar",0,0,0,0,"+10 to any attempt to control an Artifact owned by a rival. Or play at any time except during an attack to take control of an uncontrolled Artifact.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":2,"ID":425,"No","Power To The People",0,0,0,0,"Play this card at any time to add 10MB to the treasury of any Communist group.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":2,"ID":426,"No","Crackdown on Crime",0,0,0,0,"Play this card at any time to add 10 to any attack against a Criminal group.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":2,"ID":427,"No","Unmasked",0,0,0,0,"Play this card on your turn. Pick any one Illuminati card which is not currently in play, and substitute it for your current Illuminati. You are now the new Illuminati for all purposes. This counts as an action, and may be used to end the game.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":2,"ID":428,"No","Reign of Terror",0,0,0,0,"Play this card at any time to add 10MB to the treasury of any Violent group.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":2,"ID":429,"No","Kinder and Gentler",0,0,0,0,"Play this card at any time to add 10MB to the treasury of any Peaceful group.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":2,"ID":430,"No","Subliminals",0,0,0,0,"Play this card during any attack to add 10 to the Power or Resistance of either the attacker or the defender.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":2,"ID":431,"No","Talk Like A Pirate Day",0,0,0,0,"Play this card at any time to add 10 to any Straight group.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":2,"ID":432,"No","Anthrax",0,0,0,0,"Play this card at any time to add 10 to any attack against a Government group.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":2,"ID":433,"No","I Lied",0,0,0,0,"Play this card when you have aided an attack, before the dice are rolled, to get back all the money you contributed to the attack. When you plan to use this card, make sure other players can verify how much money you contributed, to avoid arguments.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":2,"ID":434,"No","Atrocity Rumors",0,0,0,0,"Play this card at any time to add 10 to any attack against a Peaceful group.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":2,"ID":435,"No","Ninjas",0,0,0,0,"Play this card at any time except during an attack to put any one uncontrolled group in the discard pile. It does not count as destroyed.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":2,"ID":436,"No","Backfire",0,0,0,0,"Play at any time to move any Artifact to the uncontrolled area. It an attack was in progress, that Artifact has no effect.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":2,"ID":437,"No","Apophenia",0,0,0,0,"Play this card at any time to add 10 to defend any attack on a Weird group.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":3,"ID":438,"No","Death To All Fanatics",0,0,0,0,"Play this card at any time to add 10 to any attack against a Fanatic group.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":3,"ID":439,"No","Mob Influence",0,0,0,0,"Play this card at any time to give all of your Criminal groups extra income equal to their normal income. Or play this card at any time to add 10 to defend any Criminal group against attack.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":3,"ID":440,"No","Tax Reform",0,0,0,0,"Play this card at any time to add 10MB to the treasury of any Government group.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":3,"ID":441,"No","Nuke Them From Orbit",0,0,0,0,"Play at any time to destroy any Artifact; place it in the discard pile. If an attack was in progress, that Artifact has no effect.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":3,"ID":442,"No","Emergency Powers",0,0,0,0,"Play this card at the beginning of your turn. You get no income (the Post Office must still pay), but you get TWO extra actions on this turn. Remember, no individual group except the UFOs may act more than once during a turn.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":3,"ID":443,"No","Media Campaign",0,0,0,0,"Play this card at any time to revive a group from the ""dead"" pile. It becomes uncontrolled. (If the Servants of Cthulhu destroyed the group, it still counts as a destroyed group as part of their secret goal. If they destroy it again, it counts again!)",0,1,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":3,"ID":444,"No","Telethon",0,0,0,0,"Play this card at any time to add 10MB to the treasury of any Conservative group.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":3,"ID":445,"No","May Day",0,0,0,0,"Play this card at any time to give all your Communist groups extra income equal to 2x their normal income. Or play this card at any time to add 10 to defend any Communist group against attack.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":3,"ID":446,"No","Celebrity Spokesman",0,0,0,0,"Play this card at any time to add 10MB to the treasury of any Liberal group.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":3,"ID":447,"No","Market Manipulation",0,0,0,0,"Play this card during your income phase to double all your groups' incomes, for that turn only. This card does not allow the I.R.S. to collect twice, or require the Post Office to pay twice.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":3,"ID":448,"No","Prohibition",0,0,0,0,"Play this card at any time to add 10MB to the treasury of any Criminal group.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":3,"ID":449,"No","Whispering Campaign",0,0,0,0,"You may attempt to destroy a single group with a power of 0. Roll attacking power vs. resistance, but a successful attack destroys the target. Playing this card is not an action, but the attack itself is an action.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":3,"ID":450,"No","Weapons of Mass Distraction",0,0,0,0,"Play this card at any time to add 10 to any attack against a Liberal group.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":3,"ID":451,"No","Bribery",0,0,0,0,"Play this card during your turn to automatically take control of any one uncontrolled group. Playing this card counts as an action.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":3,"ID":452,"No","Backlash",0,0,0,0,"Play this card at any time to add 10 to any attack against a Conservative group.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":3,"ID":453,"No","Swiss Bank Account",0,0,0,0,"Exchange this card, at any time, for 25MB to be paces in your Illuminati treasury.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":3,"ID":454,"No","Reorganization",0,0,0,0,"Play this card at any time except during an attack. You may reorganize your groups freely.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":3,"ID":455,"No","White Collar Crime",0,0,0,0,"Play this card at any time to reorganize all your money freely-- that is, any amount(s) may be moved between any groups. You also get an extra 5MB which may be placed anywhere.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":3,"ID":456,"No","Velvet Revolution",0,0,0,0,"Play this card at any time to add 10 to any attack against a Communist group.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":3,"ID":457,"No","Slush Fund",0,0,0,0,"Exchange this card, at any time, for 15MB to be placed in your Illuminati treasury.",0,1,0,0,1,0,0,1,0,0,0,0,0,0,}
+{"Volume":1,"ID":500,"No","Perpetual Motion Machine",0,0,3,0,"On your turn, you may discard any card (group or special) and get an extra action. Discarded groups, and any groups they controlled, go to the uncontrolled area.",0,0,0,0,0,0,0,0,0,0,0,0,1,0,}
+{"Volume":1,"ID":501,"No","Screaming Meme",0,0,4,0,"+4 to any attempt to neutralize any group.",0,0,0,0,0,0,0,0,0,0,0,0,1,0,}
+{"Volume":3,"ID":502,"No","Principia Discordia",0,0,3,0,"All your Weird groups with power of at least 1 get +2 power.",0,0,0,0,0,1,0,0,0,0,0,0,1,0,}
+{"Volume":1,"ID":503,"No","Midas Mill",0,0,5,3,"Gold to fuel the schemes of the Illuminati! Produces 3 income.",0,0,0,0,0,0,0,0,0,0,0,0,1,0,}
+{"Volume":1,"ID":504,"No","Hitler's Brain",0,0,3,0,"When a group is destroyed by any player, you may immediately spend 1MB from your illuminati and move the group to the uncontrolled area. It still counts as a ""destroyed"" group for the player who destroyed it, and may be destroyed again.",0,0,1,0,0,0,0,0,0,0,0,0,1,0,}
+{"Volume":2,"ID":505,"No","Necronomicon",0,0,4,0,"All Fanatic groups are treated as the same alignment for the purpose of any attack you make. Fanatic gets +4 to control or neutralize Fanatic but -4 to destroy it.",0,0,0,0,0,0,0,0,0,0,0,0,1,0,}
+{"Volume":2,"ID":506,"No","Hubble Space Telescope",0,0,3,0,"It sees all. You may abolish the privelige on any attack by spending your next turn's Illuminati attack. You may not do this more than once per round unless you get more than one Illuminati attack per turn. Note that you still get two actions next turn . . . You just can’t use your Illuminati for one of them.",0,1,0,0,0,0,0,1,0,0,0,0,1,0,}
+{"Volume":1,"ID":507,"No","Flesh-Eating Bacteria",0,0,3,0,"+2 on any attempt to destroy any group.",0,0,0,0,0,0,0,0,0,0,0,0,1,0,}
+{"Volume":3,"ID":508,"No","Talisman of Ahrimanes",0,0,4,0,"On your turn only, you may pay 3MB from your Illuminati and move any uncontrolled group to the discard stack. It does not count as destroyed.",0,1,0,0,0,0,0,0,0,0,0,0,1,0,}
+{"Volume":3,"ID":509,"No","Soulburner",0,0,5,0,"Any time a rival takes control of any of your Groups, you may immediately take the top discarded Special card.",0,0,0,0,0,0,0,0,0,0,0,0,1,0,}
+{"Volume":3,"ID":510,"No","Spear of Longinus",0,0,3,0,"You have +4 on any attempt to control, neutralize, or destroy any Fanatic group.",0,0,0,0,0,0,0,0,0,0,0,0,1,0,}
+{"Volume":3,"ID":511,"No","Crystal Skull",0,0,5,0,"Add 2 to the power (and transferrable power) of your Illuminati.",0,0,0,0,0,0,0,0,0,0,0,0,1,0,}
+{"Volume":3,"ID":512,"No","Shroud of Turin",0,0,4,0,"All your groups have +2 defense against any attack to control.",0,0,0,0,0,0,1,0,0,0,0,0,1,0,}
+{"Volume":3,"ID":513,"No","Blivit",0,0,4,0,"Once per turn, you may spend your Illuminati action to discard all unconrolled groups and draw an equal number of cards. Any Special cards you draw become yours. The groups that you draw become the new uncontrolled area.",0,0,0,0,0,0,0,0,0,0,0,0,1,0,}
+{"Volume":3,"ID":514,"No","The Holy Grail",0,0,5,0,"Add 2 to the power (and transferrable power) of your Illuminati.",0,0,0,0,0,0,0,0,0,0,0,0,1,0,}
+{"Volume":3,"ID":515,"No","Ark of the Covenant",0,0,5,0,"Draw one extra card each turn.",0,0,0,0,0,0,0,0,0,0,0,0,1,0,}
