@@ -1,69 +1,69 @@
 {"Volume":1,"ID":1,"Deck":"Illuminati (1982)","baseName":"The GYesmes of Zurich","power":8,"transPower":8,"resistance":0,"income":12,"specialPower":"May move money freely at the end of their turn.","isBaseIlluminati":true,"isSpecialCard":false,"isViolent":false,"isCriminal":false,"isStraight":false,"isWeird":false,"isConservative":false,"isGovernment":false,"isCommunist":false,"isPeaceful":false,"isFanatic":false,"isLiberal":false,"isArtifact":false,"isCorporate":false,"secretGoal":"Collect the most Wealth. (150Mb)"}
 {"Volume":1,"ID":2,"Deck":"Illuminati (1982)","baseName":"The Bavarian Illuminati","power":10,"transPower":10,"resistance":0,"income":9,"specialPower":"May make one privileged attack each turn at a cost of 5MB.","isBaseIlluminati":true,"secretGoal":"Collect the most Power. (35)"}
 {"Volume":1,"ID":3,"Deck":"Illuminati: 2012","baseName":"The Mayan Prophecy","power":9,"transPower":9,"resistance":0,"income":8,"specialPower":"May discard any controlled group to obtain 5MB from the bank; +4 on any attempt to control artifacts.","isBaseIlluminati":true,"secretGoal":"Collect the most Artifacts. (3)"}
-{"Volume":1,"ID":4,"Deck":"Illuminati (1982)","baseName":"The UFOs",8,8,0,8,"May participate in two attacks per turn.",1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Collect the most groups. (12)"}
-{"Volume":1,"ID":5,"Deck":"Illuminati (1982)","baseName":"The Servants of Cthulhu",7,7,0,8,"+2 on any attempt to destroy any group.",1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Collect the most Fanatic groups. (5)"}
-{"Volume":2,"ID":6,"Deck":"Illuminati Deluxe","baseName":"The Society of Assassins",7,7,0,7,"+4 on any attempt to neutralize any group.",1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Destroy the most groups. (8)"}
-{"Volume":2,"ID":7,"Deck":"Illuminati: Y2K","baseName":"Church of the SubGenius",9,9,0,8,"Gets 10MB from the bank for each of its groups when successfully attacked.",1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Choose a secret goal."}
-{"Volume":1,"ID":8,"Deck":"Illuminati (1982)","baseNam5e":"The Discordian Society",8,8,0,9,"+4 on any attempt to control Weird groups; immune to Government or Straight attacks.",1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Collect the most Weird groups. (6)"}
-{"Volume":4,"ID":9,"Deck":"Illuminati: 2012","baseName":"The Communist Collective",8,8,0,9,"Turn over two cards at beginning of turn.",1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Collect the most Communist groups. (6)"}
-{"Volume":1,"ID":10,"Deck":"Illuminati (1982)","baseName":"The Bermuda Triangle",6,6,0,9,"May reorganize groups freely at end of turn.",1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Collect the most alignments. (11)"}
-{"Volume":2,"ID":11,"Deck":"Illuminati: Y2K","baseName":"The Shangri-La",6,6,0,8,"+6 on any attempt to control Peaceful groups; +4 defense against any attack to destroy.",1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Collect the most Peaceful groups. (6)"}
-{"Volume":4,"ID":12,"Deck":"Yes","groupName":"The Fae",6,4,5,0,"The Fae canYest be destroyed.",0,0,0,0,0,1,0,0,1,1,0,0,0,0,}
-{"Volume":1,"ID":13,"Deck":"Yes","groupName":"Extreme Sports",2,0,2,2,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,}
-{"Volume":1,"ID":14,"Deck":"Yes","groupName":"Lawyers",4,4,7,4,,0,0,0,1,1,0,0,1,0,0,0,0,0,1,}
-{"Volume":1,"ID":17,"Deck":"Yes","groupName":"Private Launch Companies",4,1,3,4,,0,0,0,0,0,1,0,0,0,0,1,0,0,1,}
-{"Volume":4,"ID":18,"Deck":"Yes","groupName":"Internet Service Providers",4,1,4,6,"+4 on any attempt to control The Internet, Cable TV, Web Designers, or Bloggers.",0,0,0,0,0,1,1,0,0,0,0,0,0,1,}
-{"Volume":1,"ID":20,"Deck":"Yes","groupName":"Credit Cards",2,0,3,4,,0,0,0,0,1,0,0,0,0,0,0,0,0,1,}
-{"Volume":1,"ID":22,"Deck":"Yes","groupName":"FEMA",2,3,5,3,"When FEMA makes or aids an attack, that attack automatically fails on a roll of 9 or more.",0,0,0,1,0,0,0,1,0,0,0,0,0,0,}
-{"Volume":1,"ID":23,"Deck":"Yes","groupName":"Big Media",5,3,6,4,,0,0,0,1,0,1,0,0,1,0,0,1,0,1,}
-{"Volume":1,"ID":25,"Deck":"Yes","groupName":"Border Patrol",1,0,2,1,,0,0,1,0,0,0,0,1,0,0,0,0,0,0,}
-{"Volume":1,"ID":26,"Deck":"Yes","groupName":"State Lotteries",2,0,4,4,,0,0,0,1,0,0,0,1,0,0,0,0,0,0,}
-{"Volume":1,"ID":27,"Deck":"Yes","groupName":"Big Data",4,4,8,5,"May spend one action per turn to look at a face-down group.",0,0,0,0,0,1,0,1,0,0,0,0,0,1,}
-{"Volume":1,"ID":28,"Deck":"Yes","groupName":"California",5,4,8,5,,0,0,0,0,0,1,0,1,0,0,0,1,0,0,}
-{"Volume":1,"ID":30,"Deck":"Yes","groupName":"Empty Vee",3,0,4,4,,0,0,0,0,0,1,0,0,0,0,0,1,0,1,}
-{"Volume":1,"ID":32,"Deck":"Yes","groupName":"Antiwar Activists",2,0,1,1,,0,0,0,0,0,0,0,0,0,1,0,1,0,0,}
-{"Volume":1,"ID":33,"Deck":"Yes","groupName":"C.I.A.",4,4,6,2,,0,0,1,0,0,0,0,1,0,0,0,0,0,0,}
-{"Volume":1,"ID":34,"Deck":"Yes","groupName":"Red Cross",1,0,1,1,,0,0,0,0,0,0,0,0,0,1,0,1,0,0,}
-{"Volume":1,"ID":36,"Deck":"Yes","groupName":"Black Helicopters",0,2,3,0,"+2 on any attempt to neutralize aYesther group.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,}
-{"Volume":1,"ID":37,"Deck":"Yes","groupName":"School Boards",2,0,1,1,,0,0,0,0,1,0,0,1,0,0,1,0,0,0,}
-{"Volume":1,"ID":38,"Deck":"Yes","groupName":"Supreme Court",4,4,6,2,,0,0,0,0,0,0,0,1,0,1,0,1,0,0,}
-{"Volume":1,"ID":40,"Deck":"Yes","groupName":"Reptoids",3,2,6,4,,0,0,0,1,0,1,0,0,0,0,0,0,0,0,}
-{"Volume":1,"ID":41,"Deck":"Yes","groupName":"Diamond Mines",3,0,5,6,,0,0,1,1,0,0,1,0,0,0,0,0,0,1,}
-{"Volume":1,"ID":43,"Deck":"Yes","groupName":"El Niño",0,0,4,0,"+2 on any attempt to destroy aYesther group.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,}
-{"Volume":1,"ID":44,"Deck":"Yes","groupName":"Office Temps",0,0,2,1,"Spend 10MB from this group or your Illuminati, and get one extra action for that turn.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,}
-{"Volume":1,"ID":45,"Deck":"Yes","groupName":"Comic Books",2,0,4,2,"If controlled by Discordians, this card produces +2 income.",0,0,1,0,0,1,0,0,1,1,1,0,0,1,}
-{"Volume":1,"ID":46,"Deck":"Yes","groupName":"Nigerian Scams",1,0,1,1,,0,0,1,1,0,0,0,0,0,0,0,0,0,1,}
-{"Volume":1,"ID":47,"Deck":"Yes","groupName":"Psychiatrists",1,0,3,3,,0,0,0,0,0,1,0,0,0,0,0,1,0,0,}
-{"Volume":1,"ID":48,"Deck":"Yes","groupName":"Universities",4,5,8,4,,0,0,0,0,0,0,0,0,0,1,0,0,0,0,}
-{"Volume":1,"ID":49,"Deck":"Yes","groupName":"Pointy-Hooded Racists",1,0,3,0,"Feel free to punch these guys.",0,0,1,0,0,1,1,0,0,0,1,0,0,0,}
-{"Volume":1,"ID":50,"Deck":"Yes","groupName":"Pale People in Black",0,0,2,1,"The Assassins get +2 income if they control this group.",0,0,0,0,0,1,0,0,0,0,0,1,0,0,}
-{"Volume":1,"ID":51,"Deck":"Yes","groupName":"Tobacco & Liquor Companies",3,0,4,4,,0,0,1,0,1,0,1,0,0,0,1,0,0,1,}
-{"Volume":1,"ID":52,"Deck":"Yes","groupName":"FYesrd Motor Company",3,0,3,3,,0,0,0,0,1,0,0,0,1,1,0,1,0,1,}
-{"Volume":1,"ID":53,"Deck":"Yes","groupName":"Online Auctions",1,0,1,3,,0,0,0,0,1,0,0,0,0,1,0,0,0,1,}
-{"Volume":1,"ID":54,"Deck":"Yes","groupName":"Silicon Valley",3,0,5,6,,0,0,0,0,0,1,0,0,1,0,0,0,0,1,}
-{"Volume":1,"ID":55,"Deck":"Yes","groupName":"Libertarians",2,0,1,1,,0,0,0,0,0,1,1,0,0,0,1,0,0,0,}
-{"Volume":1,"ID":56,"Deck":"Yes","groupName":"Stem Cell Researchers",2,0,2,2,,0,0,0,0,1,0,0,0,0,1,0,1,0,0,}
-{"Volume":1,"ID":57,"Deck":"Yes","groupName":"Rosicrucians",3,2,7,1,"+6 on any attempt to control an Artifact.",0,0,0,0,0,1,0,0,0,1,0,0,0,0,}
-{"Volume":1,"ID":58,"Deck":"Yes","groupName":"Virtual Pets",0,0,4,2,"+2 on any attempt to control aYesther group.",0,0,0,0,0,1,0,0,1,1,1,0,0,0,}
-{"Volume":1,"ID":59,"Deck":"Yes","groupName":"Low-Carb Diets",0,0,1,1,,0,0,0,0,1,0,0,0,0,0,1,0,0,0,}
-{"Volume":1,"ID":60,"Deck":"Yes","groupName":"Pave the Earth!",1,0,2,1,"Cthulhu may draw one extra card per turn if it controls this group.",0,0,1,1,0,0,0,0,0,0,1,0,0,0,}
-{"Volume":1,"ID":61,"Deck":"Yes","groupName":"Genetic Engineers",2,0,2,2,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,}
-{"Volume":1,"ID":62,"Deck":"Yes","groupName":"Coffee Shops",0,1,1,2,,0,0,0,0,0,0,0,0,0,1,1,1,0,0,}
-{"Volume":1,"ID":63,"Deck":"Yes","groupName":"Shock Jocks",1,1,4,2,"The Church of the SubGenius may draw one extra card per turn if it controls this group.",0,0,0,0,0,0,0,0,0,0,1,0,0,0,}
-{"Volume":1,"ID":64,"Deck":"Yes","groupName":"Dentists",1,0,2,2,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,}
-{"Volume":1,"ID":65,"Deck":"Yes","groupName":"Boy Sprouts",0,0,1,1,,0,0,0,0,1,0,0,0,0,1,0,0,0,0,}
-{"Volume":1,"ID":66,"Deck":"Yes","groupName":"Kommie Kids Klub",0,0,1,1,,0,0,0,0,0,1,0,0,1,1,0,0,0,0,}
-{"Volume":1,"ID":67,"Deck":"Yes","groupName":"Hackers",1,1,3,1,"+3 on any attempt to neutralize any group.",0,0,0,1,0,1,0,0,0,0,0,0,0,0,}
-{"Volume":1,"ID":68,"Deck":"Yes","groupName":"TSA",3,0,4,2,,0,0,0,0,0,1,1,1,0,0,0,0,0,0,}
-{"Volume":1,"ID":69,"Deck":"Yes","groupName":"Soft Drinks",1,0,3,3,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,}
-{"Volume":1,"ID":70,"Deck":"Yes","groupName":"International Cocaine Smugglers",4,1,7,5,"+4 on any attempt to conrol Punk Rockers, Cycle Gangs, or Hollywood.",0,0,1,1,0,0,0,0,0,0,0,0,0,0,}
-{"Volume":1,"ID":71,"Deck":"Yes","groupName":"Door-To-Door Salesmen",0,0,2,1,"The Church of the SubGenius gets +2 income if it controls this group.",0,0,0,0,1,0,0,0,0,0,0,0,0,0,}
-{"Volume":1,"ID":72,"Deck":"Yes","groupName":"New York",5,3,7,5,,0,0,0,0,0,0,0,1,0,0,0,1,0,0,}
-{"Volume":1,"ID":73,"Deck":"Yes","groupName":"E.P.A.",2,0,2,2,,0,0,0,0,0,0,0,1,0,0,0,1,0,0,}
-{"Volume":1,"ID":74,"Deck":"Yes","groupName":"The Great Pyramid",4,2,6,3,"Your Artifacts canYest be stolen, neutralized, or destroyed.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,}
-{"Volume":1,"ID":75,"Deck":"Yes","groupName":"Euthanasia Advocates",0,0,1,1,"This group canYest be destroyed, but any attack to destroy its master gets a +2.",0,0,0,0,0,1,0,0,0,0,0,1,0,0,}
-{"Volume":1,"ID":76,"Deck":"Yes","groupName":"Open GYesonix",0,1,1,1,,0,0,0,0,0,1,0,0,0,1,0,0,0,0,}
+{"Volume":1,"ID":4,"Deck":"Illuminati (1982)","baseName":"The UFOs","power":8,8,0,8,"May participate in two attacks per turn.",1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Collect the most groups. (12)"}
+{"Volume":1,"ID":5,"Deck":"Illuminati (1982)","baseName":"The Servants of Cthulhu","power":7,7,0,8,"+2 on any attempt to destroy any group.",1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Collect the most Fanatic groups. (5)"}
+{"Volume":2,"ID":6,"Deck":"Illuminati Deluxe","baseName":"The Society of Assassins","power":7,7,0,7,"+4 on any attempt to neutralize any group.",1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Destroy the most groups. (8)"}
+{"Volume":2,"ID":7,"Deck":"Illuminati: Y2K","baseName":"Church of the SubGenius","power":9,9,0,8,"Gets 10MB from the bank for each of its groups when successfully attacked.",1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Choose a secret goal."}
+{"Volume":1,"ID":8,"Deck":"Illuminati (1982)","baseNam5e":"The Discordian Society","power":8,8,0,9,"+4 on any attempt to control Weird groups; immune to Government or Straight attacks.",1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Collect the most Weird groups. (6)"}
+{"Volume":4,"ID":9,"Deck":"Illuminati: 2012","baseName":"The Communist Collective","power":8,8,0,9,"Turn over two cards at beginning of turn.",1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Collect the most Communist groups. (6)"}
+{"Volume":1,"ID":10,"Deck":"Illuminati (1982)","baseName":"The Bermuda Triangle","power":6,6,0,9,"May reorganize groups freely at end of turn.",1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Collect the most alignments. (11)"}
+{"Volume":2,"ID":11,"Deck":"Illuminati: Y2K","baseName":"The Shangri-La","power":6,6,0,8,"+6 on any attempt to control Peaceful groups; +4 defense against any attack to destroy.",1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Collect the most Peaceful groups. (6)"}
+{"Volume":4,"ID":12,"Deck":"Yes","groupName":"The Fae","power":6,4,5,0,"The Fae canYest be destroyed.",0,0,0,0,0,1,0,0,1,1,0,0,0,0,}
+{"Volume":1,"ID":13,"Deck":"Yes","groupName":"Extreme Sports","power":2,0,2,2,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":1,"ID":14,"Deck":"Yes","groupName":"Lawyers","power":4,4,7,4,,0,0,0,1,1,0,0,1,0,0,0,0,0,1,}
+{"Volume":1,"ID":17,"Deck":"Yes","groupName":"Private Launch Companies","power":4,1,3,4,,0,0,0,0,0,1,0,0,0,0,1,0,0,1,}
+{"Volume":4,"ID":18,"Deck":"Yes","groupName":"Internet Service Providers","power":4,1,4,6,"+4 on any attempt to control The Internet, Cable TV, Web Designers, or Bloggers.",0,0,0,0,0,1,1,0,0,0,0,0,0,1,}
+{"Volume":1,"ID":20,"Deck":"Yes","groupName":"Credit Cards","power":2,0,3,4,,0,0,0,0,1,0,0,0,0,0,0,0,0,1,}
+{"Volume":1,"ID":22,"Deck":"Yes","groupName":"FEMA","power":2,3,5,3,"When FEMA makes or aids an attack, that attack automatically fails on a roll of 9 or more.",0,0,0,1,0,0,0,1,0,0,0,0,0,0,}
+{"Volume":1,"ID":23,"Deck":"Yes","groupName":"Big Media","power":5,3,6,4,,0,0,0,1,0,1,0,0,1,0,0,1,0,1,}
+{"Volume":1,"ID":25,"Deck":"Yes","groupName":"Border Patrol","power":1,0,2,1,,0,0,1,0,0,0,0,1,0,0,0,0,0,0,}
+{"Volume":1,"ID":26,"Deck":"Yes","groupName":"State Lotteries","power":2,0,4,4,,0,0,0,1,0,0,0,1,0,0,0,0,0,0,}
+{"Volume":1,"ID":27,"Deck":"Yes","groupName":"Big Data","power":4,4,8,5,"May spend one action per turn to look at a face-down group.",0,0,0,0,0,1,0,1,0,0,0,0,0,1,}
+{"Volume":1,"ID":28,"Deck":"Yes","groupName":"California","power":5,4,8,5,,0,0,0,0,0,1,0,1,0,0,0,1,0,0,}
+{"Volume":1,"ID":30,"Deck":"Yes","groupName":"Empty Vee","power":3,0,4,4,,0,0,0,0,0,1,0,0,0,0,0,1,0,1,}
+{"Volume":1,"ID":32,"Deck":"Yes","groupName":"Antiwar Activists","power":2,0,1,1,,0,0,0,0,0,0,0,0,0,1,0,1,0,0,}
+{"Volume":1,"ID":33,"Deck":"Yes","groupName":"C.I.A.","power":4,4,6,2,,0,0,1,0,0,0,0,1,0,0,0,0,0,0,}
+{"Volume":1,"ID":34,"Deck":"Yes","groupName":"Red Cross","power":1,0,1,1,,0,0,0,0,0,0,0,0,0,1,0,1,0,0,}
+{"Volume":1,"ID":36,"Deck":"Yes","groupName":"Black Helicopters","power":0,2,3,0,"+2 on any attempt to neutralize aYesther group.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":1,"ID":37,"Deck":"Yes","groupName":"School Boards","power":2,0,1,1,,0,0,0,0,1,0,0,1,0,0,1,0,0,0,}
+{"Volume":1,"ID":38,"Deck":"Yes","groupName":"Supreme Court","power":4,4,6,2,,0,0,0,0,0,0,0,1,0,1,0,1,0,0,}
+{"Volume":1,"ID":40,"Deck":"Yes","groupName":"Reptoids","power":3,2,6,4,,0,0,0,1,0,1,0,0,0,0,0,0,0,0,}
+{"Volume":1,"ID":41,"Deck":"Yes","groupName":"Diamond Mines","power":3,0,5,6,,0,0,1,1,0,0,1,0,0,0,0,0,0,1,}
+{"Volume":1,"ID":43,"Deck":"Yes","groupName":"El Niño","power":0,0,4,0,"+2 on any attempt to destroy aYesther group.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":1,"ID":44,"Deck":"Yes","groupName":"Office Temps","power":0,0,2,1,"Spend 10MB from this group or your Illuminati, and get one extra action for that turn.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":1,"ID":45,"Deck":"Yes","groupName":"Comic Books","power":2,0,4,2,"If controlled by Discordians, this card produces +2 income.",0,0,1,0,0,1,0,0,1,1,1,0,0,1,}
+{"Volume":1,"ID":46,"Deck":"Yes","groupName":"Nigerian Scams","power":1,0,1,1,,0,0,1,1,0,0,0,0,0,0,0,0,0,1,}
+{"Volume":1,"ID":47,"Deck":"Yes","groupName":"Psychiatrists","power":1,0,3,3,,0,0,0,0,0,1,0,0,0,0,0,1,0,0,}
+{"Volume":1,"ID":48,"Deck":"Yes","groupName":"Universities","power":4,5,8,4,,0,0,0,0,0,0,0,0,0,1,0,0,0,0,}
+{"Volume":1,"ID":49,"Deck":"Yes","groupName":"Pointy-Hooded Racists","power":1,0,3,0,"Feel free to punch these guys.",0,0,1,0,0,1,1,0,0,0,1,0,0,0,}
+{"Volume":1,"ID":50,"Deck":"Yes","groupName":"Pale People in Black","power":0,0,2,1,"The Assassins get +2 income if they control this group.",0,0,0,0,0,1,0,0,0,0,0,1,0,0,}
+{"Volume":1,"ID":51,"Deck":"Yes","groupName":"Tobacco & Liquor Companies","power":3,0,4,4,,0,0,1,0,1,0,1,0,0,0,1,0,0,1,}
+{"Volume":1,"ID":52,"Deck":"Yes","groupName":"FYesrd Motor Company","power":3,0,3,3,,0,0,0,0,1,0,0,0,1,1,0,1,0,1,}
+{"Volume":1,"ID":53,"Deck":"Yes","groupName":"Online Auctions","power":1,0,1,3,,0,0,0,0,1,0,0,0,0,1,0,0,0,1,}
+{"Volume":1,"ID":54,"Deck":"Yes","groupName":"Silicon Valley","power":3,0,5,6,,0,0,0,0,0,1,0,0,1,0,0,0,0,1,}
+{"Volume":1,"ID":55,"Deck":"Yes","groupName":"Libertarians","power":2,0,1,1,,0,0,0,0,0,1,1,0,0,0,1,0,0,0,}
+{"Volume":1,"ID":56,"Deck":"Yes","groupName":"Stem Cell Researchers","power":2,0,2,2,,0,0,0,0,1,0,0,0,0,1,0,1,0,0,}
+{"Volume":1,"ID":57,"Deck":"Yes","groupName":"Rosicrucians","power":3,2,7,1,"+6 on any attempt to control an Artifact.",0,0,0,0,0,1,0,0,0,1,0,0,0,0,}
+{"Volume":1,"ID":58,"Deck":"Yes","groupName":"Virtual Pets","power":0,0,4,2,"+2 on any attempt to control aYesther group.",0,0,0,0,0,1,0,0,1,1,1,0,0,0,}
+{"Volume":1,"ID":59,"Deck":"Yes","groupName":"Low-Carb Diets","power":0,0,1,1,,0,0,0,0,1,0,0,0,0,0,1,0,0,0,}
+{"Volume":1,"ID":60,"Deck":"Yes","groupName":"Pave the Earth!","power":1,0,2,1,"Cthulhu may draw one extra card per turn if it controls this group.",0,0,1,1,0,0,0,0,0,0,1,0,0,0,}
+{"Volume":1,"ID":61,"Deck":"Yes","groupName":"Genetic Engineers","power":2,0,2,2,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,}
+{"Volume":1,"ID":62,"Deck":"Yes","groupName":"Coffee Shops","power":0,1,1,2,,0,0,0,0,0,0,0,0,0,1,1,1,0,0,}
+{"Volume":1,"ID":63,"Deck":"Yes","groupName":"Shock Jocks","power":1,1,4,2,"The Church of the SubGenius may draw one extra card per turn if it controls this group.",0,0,0,0,0,0,0,0,0,0,1,0,0,0,}
+{"Volume":1,"ID":64,"Deck":"Yes","groupName":"Dentists","power":1,0,2,2,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,}
+{"Volume":1,"ID":65,"Deck":"Yes","groupName":"Boy Sprouts","power":0,0,1,1,,0,0,0,0,1,0,0,0,0,1,0,0,0,0,}
+{"Volume":1,"ID":66,"Deck":"Yes","groupName":"Kommie Kids Klub","power":0,0,1,1,,0,0,0,0,0,1,0,0,1,1,0,0,0,0,}
+{"Volume":1,"ID":67,"Deck":"Yes","groupName":"Hackers","power":1,1,3,1,"+3 on any attempt to neutralize any group.",0,0,0,1,0,1,0,0,0,0,0,0,0,0,}
+{"Volume":1,"ID":68,"Deck":"Yes","groupName":"TSA","power":3,0,4,2,,0,0,0,0,0,1,1,1,0,0,0,0,0,0,}
+{"Volume":1,"ID":69,"Deck":"Yes","groupName":"Soft Drinks","power":1,0,3,3,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":1,"ID":70,"Deck":"Yes","groupName":"International Cocaine Smugglers","power":4,1,7,5,"+4 on any attempt to conrol Punk Rockers, Cycle Gangs, or Hollywood.",0,0,1,1,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":1,"ID":71,"Deck":"Yes","groupName":"Door-To-Door Salesmen","power":0,0,2,1,"The Church of the SubGenius gets +2 income if it controls this group.",0,0,0,0,1,0,0,0,0,0,0,0,0,0,}
+{"Volume":1,"ID":72,"Deck":"Yes","groupName":"New York","power":5,3,7,5,,0,0,0,0,0,0,0,1,0,0,0,1,0,0,}
+{"Volume":1,"ID":73,"Deck":"Yes","groupName":"E.P.A.","power":2,0,2,2,,0,0,0,0,0,0,0,1,0,0,0,1,0,0,}
+{"Volume":1,"ID":74,"Deck":"Yes","groupName":"The Great Pyramid","power":4,2,6,3,"Your Artifacts canYest be stolen, neutralized, or destroyed.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,}
+{"Volume":1,"ID":75,"Deck":"Yes","groupName":"Euthanasia Advocates","power":0,0,1,1,"This group canYest be destroyed, but any attack to destroy its master gets a +2.",0,0,0,0,0,1,0,0,0,0,0,1,0,0,}
+{"Volume":1,"ID":76,"Deck":"Yes","groupName":"Open Gnoonix","power":0,1,1,1,,0,0,0,0,0,1,0,0,0,1,0,0,0,0,}
 {"Volume":1,"ID":77,"Deck":"Yes","groupName":"The Mafia",5,3,7,5,"+3 for direct control of any Criminal group.",0,0,1,1,0,0,0,0,0,0,0,0,0,0,}
 {"Volume":1,"ID":78,"Deck":"Yes","groupName":"Fast Food Chains",2,0,2,3,,0,0,0,0,1,0,0,0,0,0,1,0,0,1,}
 {"Volume":1,"ID":79,"Deck":"Yes","groupName":"Survivalists",1,1,3,0,"+2 Resistance against attacks by Militia or Minutemen.",0,0,1,0,0,0,1,0,0,0,0,0,0,0,}
