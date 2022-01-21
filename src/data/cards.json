@@ -265,6 +265,7 @@
 {"Volume":4,"ID":282,"Deck":"Yes","groupName":"Baphomet Babes",2,0,2,3,"Pagans rejoice! +4 to any attmept to control Druids.",0,0,0,0,0,1,0,0,0,0,1,0,0,0,}
 {"Volume":4,"ID":283,"Deck":"Yes","groupName":"Lucifer X. Satan, CEO",5,3,7,8,"All cards attached to Lucifer X. Satan, CEO get +3 to defend against any attack.",0,0,1,1,0,1,0,0,0,0,0,0,0,1,}
 {"Volume":4,"ID":284,"Deck":"Yes","groupName":"Great Cthulhu",5,0,7,0,,0,0,1,0,0,1,0,0,1,0,1,0,0,0,}
+{"Volume":4,"ID":285,"Deck":"Yes","groupName":"Jesus H. Christ, CEO",6,1,5,5,"+4 to control any Conservative or Corporate groups; may take income a second time as an action.",0,}
 {"Volume":1,"ID":400,"Deck":"Yes","specialName":"Gremlins",0,0,0,0,"Play at the beginning of any other player's turn, before he takes any actions. That player loses one action for the turn (so, unless he plays a card of his own, he gets only one action).",0,1,0,0,0,0,0,0,0,0,0,0,0,0,}
 {"Volume":1,"ID":401,"Deck":"Yes","specialName":"Assassination",0,0,0,0,"Play this card immediately after the dice are rolled on any attempt (by any player) to destroy, control, neutralize. That roll is immediately changed, retroactively, to a 2.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,}
 {"Volume":1,"ID":402,"Deck":"Yes","specialName":"Red Scare",0,0,0,0,"Play this card at any time to give all of your Conservative groups extra income equal to their Yesrmal income. Or play this card at any time to add 10 to defend any Conservative group against attack.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,}
