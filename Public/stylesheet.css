@@ -13,8 +13,8 @@
     }
 
 body {
-	background-color: black;
-	color: white;
+	background-color: #CFAD42;
+	color: #292D30;
 	font-family: 'Source Code Pro', monospace;
 }
 
@@ -31,16 +31,17 @@ p {
 }
 
 #canvas {
+	background-color: #292D30;
 	margin: 2rem;
 	margin-bottom: 0;
-	height: 60vh;
-	border: 1px solid white;
+	height: 640px;
+	width: 896;
 }
 
 #card {
 	width: 20rem;
 	height: 10rem;
-	border: 2px solid white;
+	border: 2px solid #CFAD42;
 	border-radius: 20px;
 	font-family: 'Eurostile';
 	text-align: center;
@@ -58,13 +59,13 @@ textarea:focus, input:focus{
 #terminal {
 	margin: 2rem;
 	margin-top: 0;
-	border: 1px solid white;
+	border: 1px solid #292D30;
 }
 
 #terminal-in {
 	background: none;
 	border: none;
-	color: darkgrey;
+	color: #292D30;
 	font-family: 'Source Code Pro', monospace;
 }
 
