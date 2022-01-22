@@ -30,15 +30,29 @@ p {
 	padding-left: 2rem;
 }
 
+#app {
+	width: 995px;
+}
+
 #canvas {
+	display: grid;
+	grid-template-columns: repeat(14, 1fr);
 	background-color: #292D30;
 	margin: 2rem;
 	margin-bottom: 0;
-	height: 640px;
-	width: 896;
+	height: 666px;
+	background-image: url("mockup448x320.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+
+}
+
+.square {
+	border: 1.2px dotted #CFAD42;
 }
 
 #card {
+	display: none;
 	width: 20rem;
 	height: 10rem;
 	border: 2px solid #CFAD42;
@@ -69,5 +83,7 @@ textarea:focus, input:focus{
 	font-family: 'Source Code Pro', monospace;
 }
 
-
+::placeholder {
+	color: #292D30;
+}
 
