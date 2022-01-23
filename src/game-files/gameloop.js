@@ -1,6 +1,3 @@
-gsap.registerPlugin(Draggable);
-
-Draggable.create("#card");
 
 let str = "";
 let terminalIn = document.getElementById("terminal-in");
@@ -13,6 +10,17 @@ terminal.addEventListener('keyup',  (e) => {
 	};
 });
 
+function enableSnap() {
+  $("#card").draggable({ 
+      grid: [ 133,134 ],
+      snapTolerance: 50,
+      containment: "parent",
+      refreshPositions: true,
+      scroll: true
+    });
+};
+
+enableSnap();
 /* if (str == "y" || str == "Y") {
 	var getCard = document.getElementById("card");
 	var display = getComputedStyle(getCard).display;
