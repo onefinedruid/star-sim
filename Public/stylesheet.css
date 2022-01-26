@@ -54,12 +54,24 @@ p {
 	padding: 0;
 	width: 128px;
 	height: 128px;
-	background-image: url("../src/assets/2BavarianIlluminati.PNG");
-	background-size: contain;
 }
 
 #card p {
 	margin: auto;
+}
+#card {
+	background-image: url("../src/assets/2BavarianIlluminati.PNG");
+	background-size: contain;
+}
+
+#card2 {
+	background-image: url("../src/assets/4TheUFOs.PNG");
+	background-size: contain;
+}
+
+#card3 {
+	background-image: url("../src/assets/McBrideIlluminati.png");
+	background-size: contain;
 }
 
 textarea:focus, input:focus{
