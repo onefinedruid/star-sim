@@ -1,8 +1,9 @@
 
+// create terminal
 let str = "";
 let terminalIn = document.getElementById("terminal-in");
 let terminalOut = document.getElementById("terminal-out");
-// enable terminal
+// enable terminal input on enter key
 terminal.addEventListener('keyup',  (e) => {
 	if (e.key === 'Enter') {
 		str = terminalIn.value;
@@ -10,26 +11,30 @@ terminal.addEventListener('keyup',  (e) => {
 	};
 });
 
-function enableSnap() {
-  $("#card").draggable({ 
-      grid: [ 133,134 ],
-      snapTolerance: 50,
-      containment: "parent",
-      refreshPositions: true,
-      scroll: true
-    });
-};
 
-enableSnap();
-/* if (str == "y" || str == "Y") {
-	var getCard = document.getElementById("card");
-	var display = getComputedStyle(getCard).display;
-    if (display == "none") {
-		searchbar.style.display = "block";
-    } else {
-        searchbar.style.display = "none";
-    };
-}; */
+// enable drag + grid
+$("#card").draggable({ 
+  grid: [ 128,128 ],
+  snapTolerance: 128,
+  containment: "parent",
+  scroll: true,
+  refreshPositions: true,
+});
+
+$("#card2").draggable({ 
+  grid: [ 128,128 ],
+  snapTolerance: 50,
+  containment: "parent",
+  refreshPositions: true,
+  scroll: true
+});
+$("#card3").draggable({ 
+  grid: [ 128,128 ],
+  snapTolerance: 50,
+  containment: "parent",
+  refreshPositions: true,
+  scroll: true
+});
 
 // choose starting group
 // shuffle deck
