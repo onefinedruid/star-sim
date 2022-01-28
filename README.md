@@ -1,4 +1,4 @@
-# illuminati-game
+# The Illuminati Web Game
 A free, fan made, 1-bit browser port of Steve Jackson's infamous card game.
 
 Playground at [illuminatigame.fun](https://illuminatigame.fun).
