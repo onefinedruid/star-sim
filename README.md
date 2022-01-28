@@ -4,4 +4,4 @@ Players must build a colony by controlling objects and artifacts, and recruiting
 - [Marines] - "Gen. M. Axxelos" - buy and collect the most firepower and military.
 - [Scientists] - "Dr. Lora Basoul" - collect rare forms of life, study materials to advance society.
 - [Theologians] - "Rev. R. Abbegurion" - collect sacred objects, grow your church, and form a deep connection with teh universe.
-- [Diplomats] - "Pres. W. Harcourt" - collect allies, treaties and contracts to make a galactic government.
+- [Diplomats] - "Pres. W. Halcourt" - collect allies, treaties and contracts to make a galactic government.
