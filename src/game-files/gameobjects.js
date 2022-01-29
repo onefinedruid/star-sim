@@ -1,51 +1,50 @@
 let GameObjects = {
         Pirates : {
-            Starter: {
-                name: "Golong, The Pirate King",
-                wealth: 100000,
-                goal: 500000
-            },
             Crew : {
-
-            }
+                0: {
+                    name: "Golong, The Pirate King",
+                    wealth: 100000,
+                    goal: 500000
+                },
+                1: {
+                    name: ""
+                }
+            },
         },
         Marines : {
-            Starter : {
-                name: "Gen. M. Thaxxlos",
-                arsenal: 60,
-                goal: 300
-            },
             Crew : {
-
+                0 : {
+                    name: "Gen. M. Thaxxlos",
+                    arsenal: 60,
+                    goal: 300
+                }
             }
         },
         Scientists : {
-            Starter : {
-                name: "Dr. Lora Basoul",
-                research: 20,
-                goal: 100
-            },
             Crew : {
-
+                0 : {
+                    name: "Dr. Lora Basoul",
+                    research: 20,
+                    goal: 100
+                }
             }
         },
         Theologians : {
-            Starter : {
-                name: "Rev. A. Abbegurion",
-                
-            },
             Crew : {
-
+                0 : {
+                    name: "High Priest A. Abbegurion",
+                    artifacts: 2,
+                    goal: 10
+                }
             }
         },
         Diplomats : {
-            Starter : {
-                name: "Pres. W. Halcourt",
-                diplomacy: 20,
-                goal: 100
-            },
             Crew : {
-
+                0 : {
+                    name: "Pres. W. Halcourt",
+                    diplomacy: 20,
+                    goal: 100
+                }
             }
         }
 
