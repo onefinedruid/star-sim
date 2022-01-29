@@ -35,8 +35,7 @@ $("#card3").draggable({
   scroll: true
 });
 
-//test
-import { GameObjects } from '..gameobjects';
+import { GameObjects } from 'gameobjects.js';
 terminalOut.innerText(GameObjects.Pirates.Starters.name.value);
 
 // choose starting group
