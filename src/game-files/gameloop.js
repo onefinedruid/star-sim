@@ -1,3 +1,5 @@
+import {GameObjects} from './data/game-objects.js';
+
 
 // create terminal
 let str = "";
@@ -10,6 +12,9 @@ terminal.addEventListener('keyup',  (e) => {
 		terminalOut.innerHTML = ">Received input:(" + str + ")";
 	};
 });
+
+//test 
+terminalOut.innerText(GameObjects.Pirates.Starters.name);
 
 
 // enable drag + grid
