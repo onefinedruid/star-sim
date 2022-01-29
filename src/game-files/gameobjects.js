@@ -1,4 +1,4 @@
-export const GameObjects = {
+export var GameObjects = {
         Pirates : {
             Starter: {
                 name: "Golong, The Pirate King",

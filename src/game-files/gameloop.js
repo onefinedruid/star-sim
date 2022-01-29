@@ -1,6 +1,3 @@
-import {GameObjects} from './data/game-objects.js';
-
-
 // create terminal
 let str = "";
 let terminalIn = document.getElementById("terminal-in");
@@ -12,9 +9,6 @@ terminal.addEventListener('keyup',  (e) => {
 		terminalOut.innerHTML = ">Received input:(" + str + ")";
 	};
 });
-
-//test 
-terminalOut.innerText(GameObjects.Pirates.Starters.name);
 
 
 // enable drag + grid
@@ -40,6 +34,10 @@ $("#card3").draggable({
   refreshPositions: true,
   scroll: true
 });
+
+//test
+import { GameObjects } from '..gameobjects';
+terminalOut.innerText(GameObjects.Pirates.Starters.name.value);
 
 // choose starting group
 // shuffle deck
