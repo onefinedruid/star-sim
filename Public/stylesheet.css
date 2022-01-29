@@ -48,29 +48,33 @@ p {
 
 #card, #card2, #card3 {
 	position: absolute;
-	margin: 0;
+	margin: 2px;
 	padding: 0;
-	transform: translate(0px, 1px);
-	width: 121px;
-	height: 121px;
 }
 
 #card {
+	width: 120px;
+	height: 120px;
 	background-color: #343c3c;
 	border: 2px solid #d4cca4;
 	z-index: 0;
 }
 
-/*
 #card2 {
-	border: 1px solid green;
+	width: 57px;
+	height: 57px;
+	border: 2px solid #ae0000;
+	background-color: #d4cca4;
 	z-index: 1;
 }
 
 #card3 {
-	border: 1px solid blue;
+	width: 120px;
+	height: 120px;
+	border: 2px solid #d4cca4;
+	background-color: #ae0000;
 	z-index: 2;
-}*/
+}
 
 textarea:focus, input:focus{
     outline: none;

@@ -16,21 +16,21 @@ function enableTerm() {
 // enable drag + grid
 function enableGrid() {
   $("#card").draggable({ 
-    grid: [ 128,128 ],
-    snapTolerance: 128,
+    grid: [ 64,64 ],
+    snapTolerance: 64,
     containment: "parent",
     refreshPositions: false,
   });
 
   $("#card2").draggable({ 
-    grid: [ 128,128 ],
-    snapTolerance: 128,
+    grid: [ 64,64 ],
+    snapTolerance: 64,
     containment: "parent",
     refreshPositions: false,
   });
   $("#card3").draggable({ 
-    grid: [ 128,128 ],
-    snapTolerance: 128,
+    grid: [ 64,64 ],
+    snapTolerance: 64,
     containment: "parent",
     refreshPositions: false,
   });
