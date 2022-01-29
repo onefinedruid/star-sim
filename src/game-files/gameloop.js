@@ -1,42 +1,46 @@
+
 // create terminal
 let str = "";
 let terminalIn = document.getElementById("terminal-in");
 let terminalOut = document.getElementById("terminal-out");
 // enable terminal input on enter key
-terminal.addEventListener('keyup',  (e) => {
-	if (e.key === 'Enter') {
-		str = terminalIn.value;
-		terminalOut.innerHTML = ">Received input:(" + str + ")";
-	};
-});
-
+function enableTerm() {
+  terminal.addEventListener('keyup',  (e) => {
+    if (e.key === 'Enter') {
+      str = terminalIn.value;
+      terminalOut.innerHTML = ">Received input:(" + str + ")";
+    };
+  });
+}
 
 // enable drag + grid
-$("#card").draggable({ 
-  grid: [ 128,128 ],
-  snapTolerance: 128,
-  containment: "parent",
-  scroll: true,
-  refreshPositions: true,
-});
+function enableGrid() {
+  $("#card").draggable({ 
+    grid: [ 128,128 ],
+    snapTolerance: 128,
+    containment: "parent",
+    scroll: true,
+    refreshPositions: true,
+  });
 
-$("#card2").draggable({ 
-  grid: [ 128,128 ],
-  snapTolerance: 50,
-  containment: "parent",
-  refreshPositions: true,
-  scroll: true
-});
-$("#card3").draggable({ 
-  grid: [ 128,128 ],
-  snapTolerance: 50,
-  containment: "parent",
-  refreshPositions: true,
-  scroll: true
-});
+  $("#card2").draggable({ 
+    grid: [ 128,128 ],
+    snapTolerance: 50,
+    containment: "parent",
+    refreshPositions: true,
+    scroll: true
+  });
+  $("#card3").draggable({ 
+    grid: [ 128,128 ],
+    snapTolerance: 50,
+    containment: "parent",
+    refreshPositions: true,
+    scroll: true
+  });
+}
 
-import { GameObjects } from 'gameobjects.js';
-terminalOut.innerText(GameObjects.Pirates.Starters.name.value);
+enableTerm();
+enableGrid();
 
 // choose starting group
 // shuffle deck

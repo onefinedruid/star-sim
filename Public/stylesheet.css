@@ -13,6 +13,7 @@
     }
 
 body {
+	zoom: .7;
 	background-color: #CFAD42;
 	color: #292D30;
 	font-family: 'Source Code Pro', monospace;

@@ -1,4 +1,4 @@
-export var GameObjects = {
+let GameObjects = {
         Pirates : {
             Starter: {
                 name: "Golong, The Pirate King",
@@ -50,3 +50,5 @@ export var GameObjects = {
         }
 
     };
+
+    export { GameObjects };
