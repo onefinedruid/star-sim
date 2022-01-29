@@ -19,23 +19,20 @@ function enableGrid() {
     grid: [ 128,128 ],
     snapTolerance: 128,
     containment: "parent",
-    scroll: true,
-    refreshPositions: true,
+    refreshPositions: false,
   });
 
   $("#card2").draggable({ 
     grid: [ 128,128 ],
-    snapTolerance: 50,
+    snapTolerance: 128,
     containment: "parent",
-    refreshPositions: true,
-    scroll: true
+    refreshPositions: false,
   });
   $("#card3").draggable({ 
     grid: [ 128,128 ],
-    snapTolerance: 50,
+    snapTolerance: 128,
     containment: "parent",
-    refreshPositions: true,
-    scroll: true
+    refreshPositions: false,
   });
 }
 

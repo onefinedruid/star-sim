@@ -13,9 +13,9 @@
     }
 
 body {
-	zoom: .7;
-	background-color: #CFAD42;
-	color: #292D30;
+	zoom: 1;
+	background-color: #d4cca4;
+	color: #343c3c;
 	font-family: 'Source Code Pro', monospace;
 }
 
@@ -36,7 +36,8 @@ p {
 }
 
 #canvas {
-	background-color: #292D30;
+	background-image: url('../src/assets/background-grid960x640.png');
+	background-size: 100%;
 	margin: 2rem;
 	margin-bottom: 0;
 	height: 640px;
@@ -49,15 +50,18 @@ p {
 	position: absolute;
 	margin: 0;
 	padding: 0;
-	width: 128px;
-	height: 128px;
+	transform: translate(0px, 1px);
+	width: 121px;
+	height: 121px;
 }
 
 #card {
-	border: 1px solid red;
+	background-color: #343c3c;
+	border: 2px solid #d4cca4;
 	z-index: 0;
 }
 
+/*
 #card2 {
 	border: 1px solid green;
 	z-index: 1;
@@ -66,7 +70,7 @@ p {
 #card3 {
 	border: 1px solid blue;
 	z-index: 2;
-}
+}*/
 
 textarea:focus, input:focus{
     outline: none;
