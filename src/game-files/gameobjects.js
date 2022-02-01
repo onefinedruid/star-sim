@@ -32,7 +32,7 @@ let GameObjects = {
         Theologians : {
             Crew : {
                 0 : {
-                    name: "High Priest A. Abbegurion",
+                    name: "High Priest X. Abbegurion",
                     artifacts: 2,
                     goal: 10
                 }
