@@ -55,8 +55,8 @@ p {
 #card {
 	width: 120px;
 	height: 120px;
-	background-color: #d4cca4;
-	border: 2px solid #ae0000;
+	background-image: url('./assets/HighPriest.PNG');
+	border: 2px solid #343c3c;
 	z-index: 0;
 }
 
@@ -64,7 +64,7 @@ p {
 	width: 55px;
 	height: 55px;
 	border: 2px solid #ae0000;
-	background-color: #292D30;
+	background-color: #343c3c;
 	z-index: 2;
 }
 
