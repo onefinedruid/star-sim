@@ -2,14 +2,14 @@
     font-family: 'Eurostile';
     font-style: normal;
     font-weight: normal;
-    src: local('Eurostile'), url('../src/fonts/eurostile/eurostile.woff') format('woff');
+    src: local('Eurostile'), url('fonts/eurostile/eurostile.woff') format('woff');
     }
     
 @font-face {
     font-family: 'EuroStyle Normal';
     font-style: normal;
     font-weight: normal;
-    src: local('EuroStyle Normal'), url('../src/fonts/eurostile/EuroStyle Normal.woff') format('woff');
+    src: local('EuroStyle Normal'), url('fonts/eurostile/EuroStyle Normal.woff') format('woff');
     }
 
 body {
@@ -36,7 +36,7 @@ p {
 }
 
 #canvas {
-	background-image: url('../src/assets/background-grid960x640.png');
+	background-image: url('assets/background-grid960x640.png');
 	background-size: 100%;
 	margin: 2rem;
 	margin-bottom: 0;
@@ -65,7 +65,7 @@ p {
 	height: 55px;
 	border: 2px solid #ae0000;
 	background-color: #292D30;
-	z-index: 1;
+	z-index: 2;
 }
 
 #card3 {
@@ -73,7 +73,7 @@ p {
 	height: 120px;
 	border: 2px solid #d4cca4;
 	background-color: #ae0000;
-	z-index: 2;
+	z-index: 1;
 }
 
 textarea:focus, input:focus{

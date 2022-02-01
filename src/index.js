@@ -12,7 +12,7 @@ import { gameloop } from './game-files/gameloop';
             if (e.key === 'Enter') {
             str = terminalIn.value;
             // get input on enter key
-            terminalOut.innerText(str)
+            terminalOut.innerHTML = str;
             };
         });
     }
@@ -48,5 +48,6 @@ import { gameloop } from './game-files/gameloop';
 
     console.log(GameObjects.Pirates.Crew[0].name);
     gameloop();
+    terminalOut.innerHTML = GameObjects.Theologians.Crew[0].name;
 
 
