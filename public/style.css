@@ -14,7 +14,7 @@
 
 body {
 	zoom: 1;
-	background-color: #d4cca4;
+	background-color: #f4dcdc;
 	color: #343c3c;
 	font-family: 'Source Code Pro', monospace;
 }
@@ -43,7 +43,8 @@ p {
 	height: 640px;
 	background-size: auto;
 	background-repeat: no-repeat;
-
+	background-color: #343c3c;
+	border: 1px solid #343c3c;
 }
 
 #card, #card2, #card3 {
@@ -63,7 +64,7 @@ p {
 #card2 {
 	width: 55px;
 	height: 55px;
-	border: 2px solid #ae0000;
+	border: 2px solid #f4dcdc;
 	background-color: #343c3c;
 	z-index: 2;
 }
@@ -71,8 +72,8 @@ p {
 #card3 {
 	width: 120px;
 	height: 120px;
-	border: 2px solid #d4cca4;
-	background-color: #ae0000;
+	border: 2px solid #343c3c;
+	background-color: #f4dcdc;
 	z-index: 1;
 }
 
