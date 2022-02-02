@@ -22,20 +22,20 @@ import { gameloop } from './game-files/gameloop';
     $("#card").draggable({ 
         grid: [ 64,64 ],
         snapTolerance: 64,
-        containment: "parent",
+        containment: "#canvas",
         refreshPositions: false,
     });
 
     $("#card2").draggable({ 
         grid: [ 64,64 ],
         snapTolerance: 64,
-        containment: "parent",
+        containment: "#canvas",
         refreshPositions: false,
     });
     $("#card3").draggable({ 
         grid: [ 64,64 ],
         snapTolerance: 64,
-        containment: "parent",
+        containment: "#canvas",
         refreshPositions: false,
     });
     }

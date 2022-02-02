@@ -14,8 +14,8 @@
 
 body {
 	zoom: 1;
-	background-color: #f4dcdc;
-	color: #343c3c;
+	background-color: #5DAFA7;
+	color: #242c3c;
 	font-family: 'Source Code Pro', monospace;
 }
 
@@ -36,6 +36,7 @@ p {
 }
 
 #canvas {
+	display: grid;
 	background-image: url('assets/background-grid960x640.png');
 	background-size: 100%;
 	margin: 2rem;
@@ -43,8 +44,20 @@ p {
 	height: 640px;
 	background-size: auto;
 	background-repeat: no-repeat;
-	background-color: #343c3c;
-	border: 1px solid #343c3c;
+	background-color: #5DAFA7;
+	border: 1px solid #242c3c;
+}
+
+#playerbox1 {
+	align-self: end;
+	height: 256px;
+	border: 1px solid #292D30;
+}
+
+#playerbox2 {
+	align-self: start;
+	height: 256px;
+	border: 1px solid #292D30;
 }
 
 #card, #card2, #card3 {
@@ -56,24 +69,25 @@ p {
 #card {
 	width: 120px;
 	height: 120px;
-	background-image: url('./assets/HighPriest.PNG');
-	border: 2px solid #343c3c;
+	/*background-image: url('./assets/HighPriest.PNG');*/
+	border: 2px solid #242c3c;
+	background-color: #242c3c;
 	z-index: 0;
 }
 
 #card2 {
 	width: 55px;
 	height: 55px;
-	border: 2px solid #f4dcdc;
-	background-color: #343c3c;
+	border: 2px solid #242c3c;
+	background-color: #242c3c;
 	z-index: 2;
 }
 
 #card3 {
 	width: 120px;
 	height: 120px;
-	border: 2px solid #343c3c;
-	background-color: #f4dcdc;
+	border: 2px solid #242c3c;
+	background-color: #5DAFA7;
 	z-index: 1;
 }
 
