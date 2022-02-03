@@ -14,8 +14,8 @@
 
 body {
 	zoom: 1;
-	background-color: #5DAFA7;
-	color: #242c3c;
+	background-color: #242c3c;
+	color: #5DAFA7;
 	font-family: 'Source Code Pro', monospace;
 }
 
@@ -44,8 +44,8 @@ p {
 	height: 643px;
 	background-size: auto;
 	background-repeat: no-repeat;
-	background-color: #5DAFA7;
-	border: 1px solid #242c3c;
+	background-color: #fcdcec;
+	border: 1px solid #5DAFA7;;
 	padding: 0;
 }
 
@@ -100,7 +100,7 @@ textarea:focus, input:focus{
 #terminal {
 	margin: 2rem;
 	margin-top: 0;
-	border: 1px solid #292D30;
+	border: 1px solid #5DAFA7;
 }
 
 #terminal-in {
