@@ -37,13 +37,13 @@ p {
 
 #canvas {
 	display: grid;
-	background-image: url('assets/background-grid960x640.png');
+	background-image: url('background-grid.png');
 	background-size: 100%;
 	margin: 2rem;
 	margin-bottom: 0;
-	background-size: auto;
+	background-size: 100% 100%;
 	background-repeat: no-repeat;
-	background-color: #fcdcec;
+	/*background-color: #fcdcec;*/
 	border: 1px solid #5DAFA7;;
 	padding: 0;
 }
@@ -51,7 +51,6 @@ p {
 #playerbox1 {
 	align-self: end;
 	height: 258px;
-	border: 1px solid #292D30;
 }
 
 #thealley {
@@ -63,7 +62,6 @@ p {
 #playerbox2 {
 	align-self: start;
 	height: 258px;
-	border: 1px solid #292D30;
 }
 
 #card, #card2, #card3, #card4, #card5, #card6 {
