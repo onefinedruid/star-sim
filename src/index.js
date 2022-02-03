@@ -43,18 +43,18 @@ import { gameloop } from './game-files/gameloop';
                 of: "#playerbox1"
             })
             $('#card4').position({
-                my: "center top+1",
-                at: "center top+1",
+                my: "center top+2",
+                at: "center top+2",
                 of: "#playerbox2"
             })
             $('#card5').position({
-                my: "center top+1",
-                at: "center-96 top+1",
+                my: "center top+2",
+                at: "center-96 top+2",
                 of: "#playerbox2"
             })
             $('#card6').position({
-                my: "center top+1",
-                at: "center+32 top+130",
+                my: "center top+2",
+                at: "center+96 top+2",
                 of: "#playerbox2"
             })
         }
