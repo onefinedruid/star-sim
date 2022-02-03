@@ -5,3 +5,5 @@ Players must build a colony by controlling objects and artifacts, and recruiting
 - "Dr. Lora Basoul" [Scientists] -- collect rare forms of life, study materials to advance society.
 - "Rev. R. Abbegurion" [Theologians] -- collect sacred objects, grow your church, and form a deep connection with teh universe.
 - "Pres. W. Halcourt" [Diplomats] -- collect allies, treaties and contracts to make a galactic government.
+
+![Screenshot_development_2_22](screenshot.png)
