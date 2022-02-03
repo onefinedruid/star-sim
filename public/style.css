@@ -41,7 +41,6 @@ p {
 	background-size: 100%;
 	margin: 2rem;
 	margin-bottom: 0;
-	height: 643px;
 	background-size: auto;
 	background-repeat: no-repeat;
 	background-color: #fcdcec;
@@ -51,46 +50,68 @@ p {
 
 #playerbox1 {
 	align-self: end;
-	height: 256px;
+	height: 258px;
+	border: 1px solid #292D30;
+}
+
+#thealley {
+	align-self: center;
+	height: 258px;
 	border: 1px solid #292D30;
 }
 
 #playerbox2 {
 	align-self: start;
-	height: 256px;
+	height: 258px;
 	border: 1px solid #292D30;
 }
 
-#card, #card2, #card3 {
+#card, #card2, #card3, #card4, #card5, #card6 {
 	position: absolute;
-	margin: 2px;
+	margin: 2px 2px;
 	padding: 0;
 }
 
-#card {
+.large {
 	width: 120px;
 	height: 120px;
+}
+
+.small {
+	width: 55px;
+	height: 55px;
+}
+
+#card {
 	background-image: url('assets/HighPriest.PNG');
 	background-size: contain;
 	border: 2px solid #242c3c;
 	/*background-color: #242c3c;*/
-	z-index: 0;
 }
 
 #card2 {
-	width: 55px;
-	height: 55px;
 	border: 2px solid #242c3c;
 	background-color: #242c3c;
-	z-index: 2;
 }
 
 #card3 {
-	width: 120px;
-	height: 120px;
 	border: 2px solid #242c3c;
+	background-color: #fcdcec;
+}
+
+#card4 {
+	background-color: #292D30;
+	border: 2px solid #5DAFA7;
+}
+
+#card5 {
+	background-color: #fcdcec;
+	border: 2px solid #292D30;
+}
+
+#card6 {
 	background-color: #5DAFA7;
-	z-index: 1;
+	border: 2px solid #292D30;
 }
 
 textarea:focus, input:focus{
@@ -106,11 +127,11 @@ textarea:focus, input:focus{
 #terminal-in {
 	background: none;
 	border: none;
-	color: #292D30;
+	color: #5DAFA7;
 	font-family: 'Source Code Pro', monospace;
 }
 
 ::placeholder {
-	color: #292D30;
+	color: #5DAFA7;
 }
 
