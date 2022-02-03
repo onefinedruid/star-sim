@@ -26,6 +26,11 @@ import { gameloop } from './game-files/gameloop';
         refreshPositions: false,
     });
 
+    $('#card').position({
+        my: "center bottom",
+        within: "#playerbox1"
+    });
+
     $("#card2").draggable({ 
         grid: [ 64,64 ],
         snapTolerance: 64,
@@ -43,11 +48,11 @@ import { gameloop } from './game-files/gameloop';
     enableTerm();
     enableGrid();
 
+    
 
 // GAME
 
     console.log(GameObjects.Pirates.Crew[0].name);
     gameloop();
     terminalOut.innerHTML = GameObjects.Theologians.Crew[0].name;
-
 
