@@ -3,20 +3,34 @@ let GameObjects = {
             Crew : {
                 0: {
                     name: "Golong, The Pirate King",
-                    wealth: 100000,
-                    goal: 500000
+                    text: "",
+                    strength: 66, // 100
+                    influence: 12, // 100
+                    arsenal: 30, // infinite
+                    research: 0, // 100
+                    artifacts: 0, // infinite
+                    diplomacy: 0, // 100
+                    wealth: 100000, // infinite
+                    goal: 500000 // (wealth)
                 },
                 1: {
                     name: ""
                 }
             },
         },
-        Marines : {
+        Military : {
             Crew : {
                 0 : {
-                    name: "Gen. M. Thaxxlos",
-                    arsenal: 60,
-                    goal: 300
+                    name: "General M. Thaxxlos",
+                    text: "",
+                    strength: 86, // 100
+                    influence: 18, // 100
+                    research: 25, // 100
+                    artifacts: 0, // infinite
+                    diplomacy: 10, // 100
+                    wealth: 75000, // infinite
+                    arsenal: 60, // infinite
+                    goal: 300 // (arsenal)
                 }
             }
         },
@@ -24,8 +38,15 @@ let GameObjects = {
             Crew : {
                 0 : {
                     name: "Dr. Lora Basoul",
-                    research: 20,
-                    goal: 100
+                    text: "",
+                    strength: 47, // 100
+                    influence: 25, // 100
+                    artifacts: 1, // infinite
+                    diplomacy: 15, // 100
+                    wealth: 55000, // infinite
+                    arsenal: 0, // infinite  
+                    research: 20, // 100
+                    goal: 100 // (research)
                 }
             }
         },
@@ -33,17 +54,49 @@ let GameObjects = {
             Crew : {
                 0 : {
                     name: "High Priest X. Abbegurion",
-                    artifacts: 2,
+                    text: "",
+                    strength: 33, // 100
+                    influence: 39, // 100
+                    diplomacy: 15, // 100
+                    artifacts: 2, // infinite
+                    wealth: 23000, // infinite
+                    arsenal: 0, // infinite
+                    research: 5, // 100
                     goal: 10
+                }
+            },
+            Items : {
+                0 : {
+                    name: "The Way: Becoming the Universe",
+                    type: "artifact",
+                    sacred: true,
+                    text: "This ancient book contains insightful and sacred knowledge.",
+                    special: "+5 inf, +2 sacred",
+                    value: 500
+                },
+                1 : {
+                    name: "Nebulous Orb",
+                    type: "artifact",
+                    sacred: false,
+                    research: 5,
+                    text: "A cloud of space dust suspended by gravity. It can be used for divination.",
+                    value: 150,
                 }
             }
         },
         Diplomats : {
             Crew : {
                 0 : {
-                    name: "Pres. W. Halcourt",
-                    diplomacy: 20,
-                    goal: 100
+                    name: "President W. Halcourt",
+                    text: "",
+                    strength: 49, // 100
+                    influence: 47, // 100
+                    diplomacy: 20, // 100
+                    artifacts: 0, // infinite
+                    wealth: 86000, // infinite
+                    arsenal: 0, // infinite
+                    research: 0, // 100 
+                    goal: 100 // (diplomacy)
                 }
             }
         }
