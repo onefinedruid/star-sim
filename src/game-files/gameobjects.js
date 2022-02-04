@@ -69,15 +69,15 @@ let GameObjects = {
             Items : {
                 0 : {
                     name: "The Way: Becoming the Universe",
-                    type: "artifact",
+                    type: "Artifact",
                     sacred: true,
-                    text: "This ancient book contains insightful and sacred knowledge.",
+                    text: "This ancient book contains insightful\nand sacred knowledge.",
                     special: "+5 inf, +2 sacred",
                     value: 500
                 },
                 1 : {
                     name: "Nebulous Orb",
-                    type: "artifact",
+                    type: "Artifact",
                     sacred: false,
                     research: 5,
                     text: "A cloud of space dust suspended by gravity. It can be used for divination.",

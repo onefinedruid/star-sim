@@ -85,6 +85,7 @@ p {
 	background-size: contain;
 	border: 2px solid #242c3c;
 	/*background-color: #242c3c;*/
+	overflow: hidden;
 }
 
 #card2 {
@@ -112,15 +113,29 @@ p {
 	border: 2px solid #292D30;
 }
 
-.tooltip {
-	color: red;
-	background: white;
-	padding: .5em;
-	position: fixed;
-}
-
 .ui-tooltip {
     white-space: pre-line;
+}
+
+.tooltip {
+	color: #5DAFA7;
+	background: #242c3c;
+	padding: .5em;
+	position: fixed;
+	border: 1px solid #5DAFA7;
+}
+
+span {
+	font-style: normal;
+	font-weight: normal;
+}
+
+.pink {
+	color: #fcdcec;
+}
+
+.red {
+	color: red;
 }
 
 textarea:focus, input:focus{
@@ -143,4 +158,3 @@ textarea:focus, input:focus{
 ::placeholder {
 	color: #5DAFA7;
 }
-

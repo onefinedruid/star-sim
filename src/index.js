@@ -63,8 +63,8 @@ import { gameloop } from './game-files/gameloop';
     function enableTooltip() {
         let highPriest = GameObjects.Theologians.Crew[0];
         let card1 = document.querySelector('#card');
-        card1.dataset.tooltip = "" + 
-            highPriest.rank + "\n" +
+        card1.dataset.tooltip = "<span class=\"pink\">" + 
+            highPriest.rank + "</span>\n" +
             "Strength: " + highPriest.strength + "\n" +
             "Influence: " + highPriest.influence + "\n" +
             "Diplomacy: "  + highPriest.diplomacy + "\n" +
@@ -72,16 +72,28 @@ import { gameloop } from './game-files/gameloop';
             "Research: " + highPriest.research + "\n" +
             "Arsenal: " + highPriest.arsenal + "\n" +
             "Wealth: " + highPriest.wealth + "g" + "\n" + 
-            "Goal: " + highPriest.goal + " Artifacts";
+            "<span class=\"red\">Goal: " + highPriest.goal + " Artifacts</span>";
+        
+        let wayBook = GameObjects.Theologians.Items[0];
+        let card2 = document.querySelector('#card2');
+        card2.dataset.tooltip = "<span class=\"pink\">" + 
+            wayBook.type + "\n" +
+            wayBook.name + "</span>\n" +
+            wayBook.text + "\n" +
+            "Sacred" + "\n" +
+            "Value: " + wayBook.value + "g\n" +
+            "<span class=\"red\">Special: " + wayBook.special + "</span>";
 
-        $('#card').tooltip({
-            items: "[data-tooltip]",
-            classes: {
-                "ui-tooltip":"tooltip"
-            },
-            content: function(){
-                return $(this).data("tooltip");
-            }
+        $('#card,#card2,#card3,#card4,#card5,#card6').each(function(){
+            $('#card,#card2').tooltip({
+                items: "[data-tooltip]",
+                classes: {
+                    "ui-tooltip":"tooltip"
+                },
+                content: function(){
+                    return $(this).data("tooltip");
+                }
+            })
         })
     }
     
