@@ -31,20 +31,6 @@ import { gameloop } from './game-files/gameloop';
                 at: "center bottom-2",
                 of: "#playerbox1"
             })
-
-            let highPriest = GameObjects.Theologians.Crew[0];
-            let card1 = document.querySelector('#card');
-            card1.dataset.tooltip = "\"" + highPriest.name + "\"";
-
-            $('#card').tooltip({
-                items: "[data-tooltip]",
-                classes: {
-                    "ui-tooltip":"tooltip"
-                },
-                content: function(){
-                    return $(this).data("tooltip");
-                }
-            })
         
             $('#card2').position({
                 my: "center bottom-2",
@@ -73,8 +59,33 @@ import { gameloop } from './game-files/gameloop';
             })
         })
     };
-    
 
+    function enableTooltip() {
+        let highPriest = GameObjects.Theologians.Crew[0];
+        let card1 = document.querySelector('#card');
+        card1.dataset.tooltip = "" + 
+            highPriest.rank + "\n" +
+            "Strength: " + highPriest.strength + "\n" +
+            "Influence: " + highPriest.influence + "\n" +
+            "Diplomacy: "  + highPriest.diplomacy + "\n" +
+            "Artifacts: " + highPriest.artifacts + "\n" +
+            "Research: " + highPriest.research + "\n" +
+            "Arsenal: " + highPriest.arsenal + "\n" +
+            "Wealth: " + highPriest.wealth + "g" + "\n" + 
+            "Goal: " + highPriest.goal + " Artifacts";
+
+        $('#card').tooltip({
+            items: "[data-tooltip]",
+            classes: {
+                "ui-tooltip":"tooltip"
+            },
+            content: function(){
+                return $(this).data("tooltip");
+            }
+        })
+    }
+    
+    enableTooltip();
     enableTerm();
     enableGrid();
 

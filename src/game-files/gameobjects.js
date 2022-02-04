@@ -53,7 +53,8 @@ let GameObjects = {
         Theologians : {
             Crew : {
                 0 : {
-                    name: "High Priest X. Abbegurion",
+                    rank: "High Priest",
+                    name: "X. Abbegurion",
                     text: "",
                     strength: 33, // 100
                     influence: 39, // 100
