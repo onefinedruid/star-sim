@@ -13,9 +13,6 @@ let GameObjects = {
                     wealth: 100000, // infinite
                     goal: 500000 // (wealth)
                 },
-                1: {
-                    name: ""
-                }
             },
         },
         Military : {
@@ -31,6 +28,9 @@ let GameObjects = {
                     wealth: 75000, // infinite
                     arsenal: 60, // infinite
                     goal: 300 // (arsenal)
+                },
+                1 : {
+
                 }
             }
         },
@@ -47,6 +47,11 @@ let GameObjects = {
                     arsenal: 0, // infinite  
                     research: 20, // 100
                     goal: 100 // (research)
+                }
+            },
+            Lifeforms : {
+                0 : {
+                    
                 }
             }
         },
