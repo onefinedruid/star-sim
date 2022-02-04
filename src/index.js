@@ -82,7 +82,8 @@ import { gameloop } from './game-files/gameloop';
             wayBook.text + "\n" +
             "Sacred" + "\n" +
             "Value: " + wayBook.value + "g\n" +
-            "<span class=\"red\">Special: " + wayBook.special + "</span>";
+            "<span class=\"red\">Special: " + wayBook.special + "</span>\n" +
+            "<img class=\"tooltip-img\" src=\"./assets/TheWayBook.PNG\" width=\"128\" height=\"128\"></img>";
 
         $('#card,#card2,#card3,#card4,#card5,#card6').each(function(){
             $('#card,#card2').tooltip({

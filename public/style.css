@@ -17,6 +17,7 @@ body {
 	background-color: #242c3c;
 	color: #5DAFA7;
 	font-family: 'Source Code Pro', monospace;
+	overflow: hidden;
 }
 
 h3 {
@@ -89,8 +90,10 @@ p {
 }
 
 #card2 {
+	background-image: url('assets/TheWayBook.PNG');
+	background-size: contain;
 	border: 2px solid #242c3c;
-	background-color: #242c3c;
+	/*background-color: #242c3c;*/
 }
 
 #card3 {
@@ -118,11 +121,15 @@ p {
 }
 
 .tooltip {
-	color: #5DAFA7;
-	background: #242c3c;
 	padding: .5em;
 	position: fixed;
+	color: #5DAFA7;
+	background: #242c3c;
 	border: 1px solid #5DAFA7;
+}
+
+.tooltip-img {
+	margin-top: 0.5em;
 }
 
 span {
