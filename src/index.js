@@ -25,13 +25,27 @@ import { gameloop } from './game-files/gameloop';
                 snapTolerance: 64,
                 containment: "parent",
                 refreshPositions: false,
-                
             })
             $('#card').position({
                 my: "center bottom-2",
                 at: "center bottom-2",
                 of: "#playerbox1"
             })
+
+            let highPriest = GameObjects.Theologians.Crew[0];
+            let card1 = document.querySelector('#card');
+            card1.dataset.tooltip = "\"" + highPriest.name + "\"";
+
+            $('#card').tooltip({
+                items: "[data-tooltip]",
+                classes: {
+                    "ui-tooltip":"tooltip"
+                },
+                content: function(){
+                    return $(this).data("tooltip");
+                }
+            })
+        
             $('#card2').position({
                 my: "center bottom-2",
                 at: "center-95 bottom-2",
@@ -57,8 +71,8 @@ import { gameloop } from './game-files/gameloop';
                 at: "center+96 top+2",
                 of: "#playerbox2"
             })
-        }
-    )};
+        })
+    };
     
 
     enableTerm();
