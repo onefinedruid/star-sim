@@ -153,6 +153,7 @@ textarea:focus, input:focus{
 	margin: 2rem;
 	margin-top: 0;
 	border: 1px solid #5DAFA7;
+	margin-bottom: 10em;
 }
 
 #terminal-in {
