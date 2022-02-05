@@ -21,40 +21,40 @@ import { gameloop } from './game-files/gameloop';
     function enableGrid() {
         $('#card,#card2,#card3,#card4,#card5,#card6').each(function(){
             $(this).draggable({ 
-                grid: [ 64,64 ],
+                grid: [ 68,64 ],
                 snapTolerance: 64,
                 containment: "parent",
                 refreshPositions: false,
             })
             $('#card').position({
-                my: "center bottom-2",
-                at: "center bottom-2",
+                my: "center bottom",
+                at: "center bottom-4",
                 of: "#playerbox1"
             })
         
             $('#card2').position({
-                my: "center bottom-2",
-                at: "center-95 bottom-2",
+                my: "center bottom",
+                at: "center-102 bottom-4",
                 of: "#playerbox1"
             })
             $('#card3').position({
-                my: "center bottom-2",
-                at: "center+128 bottom-2",
+                my: "center bottom",
+                at: "center+135 bottom-4",
                 of: "#playerbox1"
             })
             $('#card4').position({
-                my: "center top+2",
-                at: "center top+2",
+                my: "center top",
+                at: "center top+3",
                 of: "#playerbox2"
             })
             $('#card5').position({
                 my: "center top+2",
-                at: "center-96 top+2",
+                at: "center-102 top+2",
                 of: "#playerbox2"
             })
             $('#card6').position({
                 my: "center top+2",
-                at: "center+96 top+2",
+                at: "center+102 top+2",
                 of: "#playerbox2"
             })
         })

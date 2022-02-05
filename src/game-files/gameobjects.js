@@ -35,7 +35,7 @@ let GameObjects = {
                     strength: 67, // 100
                     influence: 37, // 100
                     special: "+27 ars",
-                    salary: 46000
+                    salary: 63000
                 }
             }
         },

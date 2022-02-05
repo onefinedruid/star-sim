@@ -12,6 +12,11 @@
     src: local('EuroStyle Normal'), url('fonts/eurostile/EuroStyle Normal.woff') format('woff');
     }
 
+@font-face {
+	font-family: 'Extrude';
+	src: url('fonts/Extrude.woff2') format('woff2');
+	}
+
 body {
 	zoom: 1;
 	background-color: #242c3c;
@@ -21,27 +26,27 @@ body {
 }
 
 h3 {
-	margin: 0;
-	font-family: 'Eurostile';
-	font-size: 27pt;
-	font-weight: bold;
+	margin: 0px;
+	font-family: 'Extrude';
+	font-size: 65pt;
 	padding-left: 2rem;
 }
 
 p {
+	margin: 0px;
 	padding-left: 2rem;
 }
 
 #app {
-	width: 965px;
+	width: 957px;
+	margin: 2rem;
 }
 
 #canvas {
+	width: 100%;
+	height: 100%;
 	display: grid;
 	background-image: url('background-grid.png');
-	background-size: 100%;
-	margin: 2rem;
-	margin-bottom: 0;
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
 	/*background-color: #fcdcec;*/
@@ -51,39 +56,41 @@ p {
 
 #playerbox1 {
 	align-self: end;
-	height: 258px;
+	height: 260px;
+	width: 100%;
 }
 
 #thealley {
 	align-self: center;
-	height: 258px;
+	height: 260px;
+	width: 100%;
 	border: 1px solid #292D30;
 }
 
 #playerbox2 {
 	align-self: start;
-	height: 258px;
+	height: 260px;
+	width: 100%;
 }
 
 #card, #card2, #card3, #card4, #card5, #card6 {
 	position: absolute;
-	margin: 2px 2px;
 	padding: 0;
 }
 
 .large {
-	width: 120px;
+	width: 125px;
 	height: 120px;
 }
 
 .small {
-	width: 55px;
+	width: 60px;
 	height: 55px;
 }
 
 #card {
 	background-image: url('assets/HighPriest.PNG');
-	background-size: contain;
+	background-size: 100% 100%;
 	border: 2px solid #242c3c;
 	/*background-color: #242c3c;*/
 	overflow: hidden;
@@ -91,7 +98,8 @@ p {
 
 #card2 {
 	background-image: url('assets/TheWayBook.PNG');
-	background-size: contain;
+	background-size: cover;
+	background-repeat: no-repeat;
 	border: 2px solid #242c3c;
 	/*background-color: #242c3c;*/
 }
@@ -150,10 +158,14 @@ textarea:focus, input:focus{
 }
 
 #terminal {
-	margin: 2rem;
+	padding: 2rem 0rem;
 	margin-top: 0;
 	border: 1px solid #5DAFA7;
 	margin-bottom: 10em;
+}
+
+#terminal-out {
+	margin-bottom: 1rem;
 }
 
 #terminal-in {
