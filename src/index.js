@@ -71,7 +71,7 @@ import { gameloop } from './game-files/gameloop';
             "Artifacts: " + highPriest.artifacts + "\n" +
             "Research: " + highPriest.research + "\n" +
             "Arsenal: " + highPriest.arsenal + "\n" +
-            "Wealth: " + highPriest.wealth + "g" + "\n" + 
+            "salary: " + highPriest.salary + "g" + "\n" + 
             "<span class=\"red\">Goal: " + highPriest.goal + " Artifacts</span>";
         
         let wayBook = GameObjects.Theologians.Items[0];
