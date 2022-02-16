@@ -10,8 +10,8 @@ let GameObjects = {
                     research: 0, // 100
                     artifacts: 0, // infinite
                     diplomacy: 0, // 100
-                    salary: 100000, // infinite
-                    goal: 500000 // (salary)
+                    salary: 100, // infinite
+                    goal: 5000// (salary)
                 },
             },
         },
@@ -25,9 +25,9 @@ let GameObjects = {
                     research: 25, // 100
                     artifacts: 0, // infinite
                     diplomacy: 10, // 100
-                    salary: 75000, // infinite
+                    salary: 75, // infinite
                     arsenal: 60, // infinite
-                    goal: 300 // (arsenal)
+                    goal: 3000 // (arsenal)
                 },
                 1 : {
                     name: "Maj. O. Ulysses",
@@ -35,7 +35,7 @@ let GameObjects = {
                     strength: 67, // 100
                     influence: 37, // 100
                     special: "+27 ars",
-                    salary: 63000
+                    salary: 63
                 }
             }
         },
@@ -48,10 +48,10 @@ let GameObjects = {
                     influence: 51, // 100
                     artifacts: 1, // infinite
                     diplomacy: 15, // 100
-                    salary: 55000, // infinite
+                    salary: 55, // infinite
                     arsenal: 0, // infinite  
                     research: 20, // 100
-                    goal: 100 // (research)
+                    goal: 1000 // (research)
                 }
             },
             Lifeforms : {
@@ -74,10 +74,10 @@ let GameObjects = {
                     influence: 59, // 100
                     diplomacy: 15, // 100
                     artifacts: 2, // infinite
-                    salary: 23000, // infinite
+                    salary: 23, // infinite
                     arsenal: 0, // infinite
                     research: 5, // 100
-                    goal: 10
+                    goal: 1000 // (influence)
                 }
             },
             Items : {
@@ -107,10 +107,10 @@ let GameObjects = {
                     influence: 86, // 100
                     diplomacy: 20, // 100
                     artifacts: 0, // infinite
-                    salary: 86000, // infinite
+                    salary: 86, // infinite
                     arsenal: 0, // infinite
                     research: 0, // 100 
-                    goal: 100 // (diplomacy)
+                    goal: 1000 // (diplomacy)
                 }
             }
         }
