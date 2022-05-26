@@ -223,13 +223,13 @@ let GameObjects = {
                     value: 2000
                 },
                 13 : {
-                    name: "Lithium (Suspended)",
-                    value: 1200,
+                    name: "Lithium Deposit",
+                    value: 900,
                     special: "+50 res"
                 },
                 14 : {
                     name: "Obscurium Deposit",
-                    value: 900,
+                    value: 1500,
                     special: "+75 inf"
                 }
             }
