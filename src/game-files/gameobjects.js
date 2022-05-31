@@ -19,11 +19,21 @@ let GameObjects = {
                     influence: 0, // 100
                     diplomacy: 0, // 100
                     salary: 68, // 100
+                },
+                2 : {
+
+                },
+                3 : {
+
+                },
+                4 : {
+
                 }
             },
             Contracts : {
             0 : {
 
+            }
             }
         },
         Military : {
@@ -46,6 +56,15 @@ let GameObjects = {
                     influence: 37, // 100
                     arsenal: 47, // 100
                     salary: 63 // 100
+                },
+                2 : {
+
+                },
+                3 : {
+
+                },
+                4 : {
+
                 }
             },
             Arsenal : {
@@ -75,6 +94,15 @@ let GameObjects = {
                     diplomacy: 0, // 100
                     salary: 51, // 100
                     research: 0, // 100
+                },
+                2 : {
+
+                },
+                3 : {
+                    
+                },
+                4 : {
+
                 }
             },
             Lifeforms : {
@@ -114,6 +142,15 @@ let GameObjects = {
                     diplomacy: 0, // 100
                     salary: 17, // 100
                     research: 0, // 100
+                },
+                2 : {
+
+                },
+                3 : {
+
+                },
+                4 : {
+
                 }
             },
             Artifacts : {
@@ -234,7 +271,7 @@ let GameObjects = {
                 }
             }
         },  
-    }
-};
+}
+
 
 export { GameObjects };
