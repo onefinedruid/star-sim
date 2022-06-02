@@ -2,7 +2,8 @@ let GameObjects = {
         Diplomats : {
             Crew : {
                 0 : {
-                    name: "President W. Halcourt",
+                    title: "President",
+                    name: "William Halcourt",
                     text: "",
                     strength: 65, // 100
                     influence: 45, // 100
@@ -13,7 +14,8 @@ let GameObjects = {
                     goal: 1000 // (diplomacy)
                 },
                 1 : {
-                    name: "Vice President ",
+                    title: "Vice President", 
+                    name: "James Hilliard",
                     text: "",
                     strength: 0, // 100
                     influence: 0, // 100
@@ -39,7 +41,8 @@ let GameObjects = {
         Military : {
             Crew : {
                 0 : {
-                    name: "General M. Thaxxlos",
+                    title: "General", 
+                    name: "Moses Thaxos",
                     text: "",
                     strength: 79, // 100
                     influence: 66, // 100
@@ -50,7 +53,8 @@ let GameObjects = {
                     goal: 1000 // (arsenal)
                 },
                 1 : {
-                    name: "Major O. Ulysses",
+                    title: "Major",
+                    name: "Odin Ulysses",
                     text: "",
                     strength: 67, // 100
                     influence: 37, // 100
@@ -69,14 +73,26 @@ let GameObjects = {
             },
             Arsenal : {
                 0 : {
-
+                    name: "Sentry Stunner",
+                    text: "",
+                    strength: 100,
+                    arsenal: 50,
+                    value: 50
+                },
+                1 : {
+                    name: "Sentry Stunner",
+                    text: "",
+                    strength: 100,
+                    arsenal: 50,
+                    value: 50
                 }
             }
         },
         Scientists : {
             Crew : {
                 0 : {
-                    name: "Dr. Lora Basoul",
+                    title: "Dr.",
+                    name: "Lora Basoul",
                     text: "",
                     strength: 65, // 100
                     influence: 51, // 100
@@ -87,7 +103,8 @@ let GameObjects = {
                     goal: 1000 // (research)
                 },
                 1 : {
-                    name: "Dr. ",
+                    title: "Dr.",
+                    name: "John Sirius",
                     text: "",
                     strength: 0, // 100
                     influence: 0, // 100
@@ -111,20 +128,23 @@ let GameObjects = {
                     text: "A friendly, shapeshifting, mammalian-like\ncreature from Alpha Centauri.",
                     type: ["Creature","Lifeform"],
                     pet: true,
-                    special: "+250 res"
+                    research: 250,
+                    influence: 150
                 },
                 1 : {
                     name: "B.H.U.",
                     text: "This 'Biotech Humanoid Unit' is friendly,\nand contains a vast database of universal knowledge.",
                     type: ["Robotic","Lifeform"],
-                    special: "+150 inf, +150 res"
+                    research: 150, 
+                    influence: 150
                 }
             }
         },
         Theologians : {
             Crew : {
                 0 : {
-                    name: "Pope X. Abbegurion",
+                    title: "Pope",
+                    name: "Xybul Abbegurion",
                     text: "",
                     strength: 54, // 100
                     influence: 100, // 100
@@ -135,7 +155,8 @@ let GameObjects = {
                     goal: 1000 // (influence)
                 },
                 1 : {
-                    name: "High Priest ",
+                    title: "High Priest",
+                    name: "Victavius Keuldro",
                     text: "",
                     strength: 0, // 100
                     influence: 0, // 100
@@ -158,7 +179,7 @@ let GameObjects = {
                     name: "The Way: Becoming the Universe",
                     type: ["Artifact","Sacred"],
                     text: "This ancient book contains insightful\nand sacred knowledge.",
-                    special: "+200 inf",
+                    influence: 200,
                     value: 500
                 },
                 1 : {
@@ -166,12 +187,12 @@ let GameObjects = {
                     type: "Artifact",
                     text: "A cloud of space dust suspended by gravity.\nIt can be used for divination.",
                     value: 150,
-                    special: "+50 inf"
+                    influence: 50
                 },
                 2 : {
                     name: "Obscurium Amulet",
                     type: ["Artifact", "Sacred"],
-                    special: "+100 inf",
+                    influence: 100,
                     value: 900
                 }
             }
@@ -179,7 +200,8 @@ let GameObjects = {
         Pirates : {
             Crew : {
                 0 : {
-                    name: "Golong the Pirate King",
+                    title: "The Pirate King",
+                    name: "Golong",
                     text: "",
                     strength: 45, // 100
                     influence: 61, // 100
@@ -190,10 +212,12 @@ let GameObjects = {
                     goal: 5000 // (value)
                 },
                 1 : {
-                    name: "Jevar the Master Thief",
+                    title: "The Master Thief",
+                    name: "Jevar",
                     text: "",
                     strength: 37, // 100
                     influence: 52, // 100
+                    arsenal: 25, // 100
                     salary: 79, // 100
                 },
                 2 : {
